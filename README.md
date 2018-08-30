@@ -1,20 +1,60 @@
-# Dự Án Bình Mới
+# Dự án Bình Mới
 
-## Lời giới thiệu
+## Giới thiệu
 
 > Không ai đổ rượu mới vào bầu da cũ, nếu vậy, rượu mới làm nứt bầu ra; rượu chảy mất và bầu cũng phải hư đi. Song rượu mới phải đổ vào bầu mới.
-> (Lu-ca 5:37-38)
+> [Lu-ca 5:37-38]
 
-Nếu muốn có cuộc sống mạnh mẽ trong Thánh Linh bạn phải đãi thân thể cách "nghiêm khắc, bắt nó phải phục" (1Cor 9:27) để trở nên thích ứng đựng rượu mới.
+Cuộc sống hiệu quả đòi hỏi khả năng điều khiển thân thể; tâm trí phải bắt phục được ý muốn của xác thịt [1 Cô-rinh-tô 9:27] và khiến nó trở nên một công cụ sẵn sàng để đối phó với mọi môi trường. **Bình cũ** `BC` là biểu tượng của cách sống theo bản năng trong tư dục; sự biến hóa của `BC` trở nên công cụ [Rô-ma 6:13] được Thánh Linh uốn nắn thành chiếc **bình mới**.
 
-Dự Án Bình Mới (BM) là chương trình nâng cao năng suất mọi lĩnh vực trong cuộc sống người tin Chúa. Những _thách thức_ trong chương trình này sẽ giúp cho bạn thay đổi nếp sống để biến _bình cũ_ thành _bình mới_ có khả năng chứa đựng rượu mới là năng quyền của Thánh Linh.
+Dự án Bình Mới `DABM` là chương trình nâng cao năng suất mọi lĩnh vực của người tin Chúa. Bạn sẽ học những  của lớp sẽ như sau:
 
-Chương trình này đòi hỏi sự cam kết của bạn. Vì mỗi thách thức xây dựng trên nhau bạn cần phải thực hiện xong thách thức mới được qua phần tiếp theo.
+* Nhận thức cá tính và khuynh hướng tự nhiên
+* Thay đổi cách thực hiện để nâng cao năng suất
+* Học cách sinh hoạt của não để biết cách điều khiển `BM`
+* Loại bỏ tính hạnh bất lợi `BC` và đào tạo khả năng tích cực `BM`
 
-## Sơ lược chương trình
+Những _thách thức_ trong dự án `BM` giúp cho đỡ sự biến đổi của `BC` thành `BM` có khả năng chứa đựng rượu mới là năng quyền của Thánh Linh [Rô-ma 12:1-2]. `DABM` đòi hỏi sự cam kết của bạn. Vì mỗi thách thức xây dựng trên nhau.
+
+_`DABM` đang trong dạng thử nghiệm. Sẽ có nhiều thay đổi và cần sự góp ý của bạn để làm công trình này hoàn hảo hơn._
+
+## Giáo trình
 
 ### Bài 1: Tính sổ thời gian
+
+#### Hiện trạng
+
+#### Mục tiêu cho tương lai
 
 ### Bài 2: Ba việc cần làm
 
 ### Bài 3: Soạn óc
+
+#### Khay nháp
+
+#### Lọc sạch
+
+#### Soạn thảo
+
+### Bài 4: Xử lý trì hoãn
+
+### Bài 5: Soạn năng lượng
+
+### Bài 6: Sơ đồ quyết định
+
+### Bài 7: Rút gọn
+
+#### Của cải
+
+#### Việc làm
+
+### Bài 8: Chỉnh sửa mặc định
+
+### Bài 9: Tập trung tập luyện
+
+### Bài 10: Ngỉ
+
+[1 Cô-rinh-tô 9:27]: https://twosparro.ws/bible/cadman.1co.9.27
+[Rô-ma 6:13]: https://twosparro.ws/bible/cadman.ro.6.13
+[Luca 5:37-38]: https://twosparro.ws/bible/cadman.lu.5.37-38
+[Rô-ma 12:1-2]: https://twosparro.ws/bible/cadman.ro.12.1-2
