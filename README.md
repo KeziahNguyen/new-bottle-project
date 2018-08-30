@@ -5,7 +5,7 @@
 > Không ai đổ rượu mới vào bầu da cũ, nếu vậy, rượu mới làm nứt bầu ra; rượu chảy mất và bầu cũng phải hư đi. Song rượu mới phải đổ vào bầu mới.
 > [Lu-ca 5:37-38]
 
-Cuộc sống hiệu quả đòi hỏi khả năng điều khiển thân thể; tâm trí phải bắt phục được ý muốn của xác thịt [1 Cô-rinh-tô 9:27] và khiến nó trở nên một công cụ sẵn sàng để đối phó với mọi môi trường. **Bình cũ** `BC` là biểu tượng của cách sống theo bản năng trong tư dục; sự biến hóa của `BC` trở nên công cụ [Rô-ma 6:13] được Thánh Linh uốn nắn thành chiếc **bình mới**.
+Cuộc sống hiệu quả đòi hỏi khả năng điều khiển thân thể; tâm trí [phải bắt phục][1 Cô-rinh-tô 9:27] được ý muốn của xác thịt và khiến nó trở nên một công cụ sẵn sàng để đối phó mọi hoàn cảnh. **Bình cũ** `BC` là biểu tượng của cách sống theo bản năng trong tư dục; sự biến hóa của `BC` trở nên [công cụ][Rô-ma 6:13] được Thánh Linh uốn nắn thành chiếc **bình mới**.
 
 Dự án Bình Mới `DABM` là chương trình nâng cao năng suất mọi lĩnh vực của người tin Chúa. Bạn sẽ học những  của lớp sẽ như sau:
 
@@ -14,7 +14,7 @@ Dự án Bình Mới `DABM` là chương trình nâng cao năng suất mọi lĩ
 * Học cách sinh hoạt của não để biết cách điều khiển `BM`
 * Loại bỏ tính hạnh bất lợi `BC` và đào tạo khả năng tích cực `BM`
 
-Những _thách thức_ trong dự án `BM` giúp cho đỡ sự biến đổi của `BC` thành `BM` có khả năng chứa đựng rượu mới là năng quyền của Thánh Linh [Rô-ma 12:1-2]. `DABM` đòi hỏi sự cam kết của bạn. Vì mỗi thách thức xây dựng trên nhau.
+Những _thách thức_ trong dự án `BM` giúp cho đỡ sự [biến đổi][Rô-ma 12:1-2] của `BC` thành `BM` có khả năng chứa đựng rượu mới là năng quyền của Thánh Linh. `DABM` đòi hỏi sự cam kết của bạn. Vì mỗi thách thức xây dựng trên nhau.
 
 _`DABM` đang trong dạng thử nghiệm. Sẽ có nhiều thay đổi và cần sự góp ý của bạn để làm công trình này hoàn hảo hơn._
 
