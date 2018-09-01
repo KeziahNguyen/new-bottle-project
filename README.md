@@ -20,11 +20,11 @@ _`DABM` đang trong dạng thử nghiệm. Sẽ có nhiều thay đổi và cầ
 
 ## Giáo trình
 
-### Bài 1: Tính sổ thời gian
+### Bài 1: [Tính sổ thời gian](chapter-1/README.md)
 
-#### Hiện trạng của `BC`
+#### 1.1 Hiện trạng của `BC`
 
-#### Mục tiêu cho `BM`
+#### 1.2 Mục tiêu cho `BM`
 
 ### Bài 2: Ba việc cần làm
 
