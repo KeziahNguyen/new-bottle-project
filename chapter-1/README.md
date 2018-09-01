@@ -1,4 +1,4 @@
-# Chương 1: Tính sổ thời gian
+# Bài 1: Tính sổ thời gian
 
 > Hãy lợi dụng thì giờ, vì những ngày là xấu. ([Ê-phê-sô 5:16])
 
@@ -13,9 +13,9 @@ Giá trị của cuộc đời sẽ được định đoạt bởi những [vi�
 
 ## Dàn bài
 
-### 1.1 Kiểm kê cách sử dụng thời gian của `BC`
+### 1.1 Hiện trạng của `BC`
 
-### 1.2 Mục tiêu sử dụng thời gian cho `BM`
+### 1.2 Mục tiêu cho `BM`
 
 [Ê-phê-sô 5:16]: https://twosparro.ws/bible/cadman/eph.5.16
 [2 Cô-rinh-tô 5:10]: https://twosparro.ws/bible/cadman/2co.5.10
