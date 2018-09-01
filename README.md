@@ -2,8 +2,7 @@
 
 ## Giới thiệu
 
-> Không ai đổ rượu mới vào bầu da cũ, nếu vậy, rượu mới làm nứt bầu ra; rượu chảy mất và bầu cũng phải hư đi. Song rượu mới phải đổ vào bầu mới.
-> [Lu-ca 5:37-38]
+> Không ai đổ rượu mới vào bầu da cũ, nếu vậy, rượu mới làm nứt bầu ra; rượu chảy mất và bầu cũng phải hư đi. Song rượu mới phải đổ vào bầu mới. ([Lu-ca 5:37-38])
 
 Cuộc sống hiệu quả đòi hỏi khả năng điều khiển thân thể; tâm trí [phải bắt phục][1 Cô-rinh-tô 9:27] được ý muốn của xác thịt và khiến nó trở nên một công cụ sẵn sàng để đối phó mọi hoàn cảnh. **Bình cũ** (`BC`) là biểu tượng của cách sống theo bản năng trong tư dục; sự biến hóa của `BC` trở nên [công cụ][Rô-ma 6:13] được Thánh Linh uốn nắn thành chiếc **bình mới** (`BM`).
 
@@ -65,5 +64,5 @@ _`DABM` đang trong dạng thử nghiệm. Sẽ có nhiều thay đổi và cầ
 
 [1 Cô-rinh-tô 9:27]: https://twosparro.ws/bible/cadman.1co.9.27
 [Rô-ma 6:13]: https://twosparro.ws/bible/cadman.ro.6.13
-[Luca 5:37-38]: https://twosparro.ws/bible/cadman.lu.5.37-38
+[Lu-ca 5:37-38]: https://twosparro.ws/bible/cadman.lu.5.37-38
 [Rô-ma 12:1-2]: https://twosparro.ws/bible/cadman.ro.12.1-2
