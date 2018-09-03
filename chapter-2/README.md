@@ -126,15 +126,7 @@ Những việc bạn hoãn lại nếu để lâu, nó sẽ chai và vô hiệu 
 * Ngày hôm sau phải cố ý thực hiện xong `2VHN`
 * Sau khi thực hiện xong chuyển việc `HL` lên trên và cố gắng thực hiện
 
-| Việc cần làm               |
-| -------------------------- |
-| `[ ]` **3 việc hôm nay**   |
-| `     [X]` CN 3' cho MSQN  |
-| `     [X]` 5 chữ về Tđ 7:8 |
-| `     [X]` Nhảy dây 333x   |
-| `     [ ]` Gọi ĐT cho mẹ   |
-| `[ ]` **Hoãn lại**         |
-| `     [ ]` Chọn 5 bài TP   |
+<img src="https://github.com/GospelTrust/new-bottle-project/blob/master/chapter-2/c2-google-keep-action-list.png" width="200"/> <img src="https://github.com/GospelTrust/new-bottle-project/blob/master/chapter-2/c2-google-keep-completed.png" width="200"/>
 
 ---
 
