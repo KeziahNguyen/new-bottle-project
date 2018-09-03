@@ -26,11 +26,15 @@ _`DABM` đang trong dạng thử nghiệm. Sẽ có nhiều thay đổi và cầ
 
 #### 1.2 Mục tiêu cho `BM`
 
-### Bài 2: Ba việc cần làm
+### Bài 2: [Ba việc cần làm](chapter-2/README.md)
 
-#### Tạo góc cố định
+#### 2.1 Ba việc hôm nay
 
-#### Nếm sự huy hoàng
+#### 2.2 Cách hoạt động của bộ nhớ
+
+#### 2.3 Giảm bớt gánh nặng của bộ nhớ
+
+#### 2.4 Mùi vị của sự thành công
 
 ### Bài 3: Soạn óc
 
