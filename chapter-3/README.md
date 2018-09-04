@@ -48,7 +48,7 @@ Ngay cả khi Pha-lô ở trong tù, ông cũng không ngừng làm việc.
 
 ## Dàn bài
 
-### 3.1 Việc làm và thời gian
+### 3.1 Theo dõi việc làm và thời gian
 
 #### 3.1.1 Mât tập trung, mất thời gian
 
