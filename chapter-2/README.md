@@ -55,7 +55,7 @@ Tôi sẽ dùng [Google Keep] ([iOS] hoặc [Android]) để tạo 2 danh sách:
 | -------------------------- |
 | `[ ]` **3 việc hôm nay**   |
 |   `[ ]` CN 3' cho MSQN     |
-|   `[ ]` 5 chữ về Tđ 7:8    |
+|   `[ ]` 5 chữ về Tđ 7:8    |
 |   `[ ]` Nhảy dây 333x      |
 | `[ ]` **Hoãn lại**         |
 |   `[ ]` Gọi ĐT cho mẹ      |
