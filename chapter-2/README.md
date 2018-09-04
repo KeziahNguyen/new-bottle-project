@@ -54,12 +54,12 @@ Tôi sẽ dùng [Google Keep] ([iOS] hoặc [Android]) để tạo 2 danh sách:
 | Việc cần làm               |
 | -------------------------- |
 | `[ ]` **3 việc hôm nay**   |
-| `     [ ]` CN 3' cho MSQN  |
-| `     [ ]` 5 chữ về Tđ 7:8 |
-| `     [ ]` Nhảy dây 333x   |
+|   `[ ]` CN 3' cho MSQN     |
+|   `[ ]` 5 chữ về Tđ 7:8    |
+|   `[ ]` Nhảy dây 333x      |
 | `[ ]` **Hoãn lại**         |
-| `     [ ]` Gọi ĐT cho mẹ   |
-| `     [ ]` Chọn 5 bài TP   |
+|   `[ ]` Gọi ĐT cho mẹ      |
+|   `[ ]` Chọn 5 bài TP      |
 
 #### 2.1.4 Thực hiện
 
