@@ -36,15 +36,17 @@ _`DABM` đang trong dạng thử nghiệm. Sẽ có nhiều thay đổi và cầ
 
 #### 2.4 Mùi vị của sự thành công
 
-### Bài 3: Soạn óc
+### Bài 3: [Ách của sự lười biếng](chapter-3/README.md)
+
+#### 3.1 Theo dõi việc làm và thời gian
+
+### Bài 4: Soạn óc
 
 #### Khay nháp
 
 #### Lọc sạch
 
 #### Soạn thảo
-
-### Bài 4: Xử lý trì hoãn
 
 ### Bài 5: Soạn năng lượng
 
