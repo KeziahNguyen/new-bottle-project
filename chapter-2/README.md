@@ -11,10 +11,9 @@ Nếu bạn hãnh diện về khả năng làm nhiều việc và đã đánh d�
 Chìa khóa của sự thành công không phải là _làm xong nhiều việc_ nhưng thực hiện những *[việc quan trọng][Lu-ca 10:42]* và hoàn tất cách theo dự định.
 
 Người khôn ngoan phân biệt được những việc cần làm, và việc gì bỏ được.
-Vì [Kết thúc của một việc tốt hơn sự khởi đầu][Truyền-đạo 7:8] nên làm ít việc nhưng làm cho xong.
-Thà làm ít nhưng công việc có giá trị và chất lượng, hơn tham gia nhiều việc mà cứ trễ nãi hoặc [không hoàn tất được][Lu-ca 14:30]; làm vậy không những dễ nản, nhưng làm người khác bực mình và khó chịu.
+Vì [kết thúc của một việc tốt hơn sự khởi đầu][Truyền-đạo 7:8] nên thà làm ít nhưng công việc có giá trị và chất lượng, hơn tham gia nhiều việc mà cứ trễ nãi hoặc [không hoàn tất được][Lu-ca 14:30]; làm vậy không những dễ nản, nhưng làm người khác bực mình và khó chịu.
 Ma-thê lo nhiều việc, nhưng Ma-ri chỉ có một việc thôi.
-Giữa hai chị em, Chúa [khen][Lu-ca 10:43] ai?
+Giữa hai chị em, Chúa [khen][Lu-ca 10:42] ai?
 
 ### Biết sắp đặt thứ tự
 
