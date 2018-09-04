@@ -11,8 +11,9 @@ Nếu bạn hãnh diện về khả năng làm nhiều việc và đã đánh d�
 Chìa khóa của sự thành công không phải là _làm xong nhiều việc_ nhưng thực hiện những *[việc quan trọng][Lu-ca 10:42]* và hoàn tất cách theo dự định.
 
 Người khôn ngoan phân biệt được những việc cần làm, và việc gì bỏ được.
-Vì [kết thúc của một việc tốt hơn sự khởi đầu][Truyền-đạo 7:8] nên thà làm ít nhưng công việc có giá trị và chất lượng, hơn tham gia nhiều việc mà cứ trễ nãi hoặc [không hoàn tất được][Lu-ca 14:30]; làm vậy không những dễ nản, nhưng làm người khác bực mình và khó chịu.
-Ma-thê lo nhiều việc, nhưng Ma-ri chỉ có một việc thôi.
+Vì [kết thúc của một việc tốt hơn sự khởi đầu][Truyền-đạo 7:8] nên thà làm ít, nhưng công việc có giá trị và chất lượng, hơn tham gia nhiều việc mà cứ trễ nãi hoặc [không hoàn tất được][Lu-ca 14:30];
+làm vậy không những dễ nản, nhưng làm người khác bực mình và khó chịu.
+Ma-thê lo nhiều việc, nhưng Ma-ri chỉ làm một việc thôi.
 Giữa hai chị em, Chúa [khen][Lu-ca 10:42] ai?
 
 ### Biết sắp đặt thứ tự
@@ -26,7 +27,7 @@ Bạn phải **có kế hoạch** để thực hiện những việc thiết th�
 ### 2.1 Ba việc hôm nay (`3VHN`)
 
 Chọn ra 3 việc cần phải hoàn tất trong ngày.
-Nếu không có kế hoạch (não sử dụng _prefrontal cortex_) thì óc sẽ phản ứng (dùng _amigdala_) mỗi khi việc đến làm tốn thời gian không ích lợi hoặc kết quả. 
+Nếu không có kế hoạch thì óc sẽ phản ứng (dùng _amigdala_) mỗi khi việc đến làm tốn thời gian không ích lợi hoặc kết quả. 
 
 #### 2.1.1 Tối hôm trước
 
@@ -63,7 +64,7 @@ Tôi sẽ dùng [Google Keep] ([iOS] hoặc [Android]) để tạo 2 danh sách:
 #### 2.1.4 Thực hiện
 
 Tôi sẽ soạn **3** việc mỗi ngày để bạn sao chép và dán trong mục `3VHN` của bạn.
-Bạn sẽ thực hiệc bài tập như sau:
+Thực hiệc bài tập như sau:
 
 * Mỗi tối làm theo hướng dẫn như trong phần [2.1.1](../chapter-2/README.md#211-tối-hôm-trước)
 * Sao chép và dán 3 việc tôi chia xẻ vào `3VHN`
@@ -78,19 +79,23 @@ Bạn sẽ thực hiệc bài tập như sau:
 #### 2.2.1 Mạng lưới tế bào thần kinh
 
 Bộ óc của chúng ta là mạng lưới của những tế bào thần kinh ([Nơ-ron]).
-Nếu bộ óc là bộ nhớ của máy vi tính thì chúng ta có thể chứa được **2.5 Petabytes**, hoặc 300 triệu giờ YouTube HD (nếu ngồi xem 24h/ngày thì khoảng *300 năm* mới hết phim).
+Nếu bộ óc là bộ nhớ của máy vi tính thì chúng ta có thể chứa được **2.5 Petabytes**, hoặc 300 triệu giờ YouTube HD (nếu ngồi xem hết 24h một ngày thì khoảng **300 năm** mới hết phim).
 
 #### 2.2.2 Nâng cấp khả năng thông tin
 
 Dù có khả năng rất lớn nhưng những nơ-ron này cần phải _nối kết với nhau_ qua những [sợi trục] để gửi thông tin trong dạng xung điện (_electrochemical_) tạo thành nền tảng cho trí nhớ.
 
-Khi những **sợi trục được nối kết nhiều lần** giữa hai nơ-ron, nó sẽ cho nối kết ấy là quan trọng nên sẽ **bọc sợi trục** với chất [myelin] để nâng cấp nối kết ấy lên, khiến xung điện được trao đổi nhanh hơn và không bị loãng.
+Khi những **sợi trục được nối kết nhiều lần** giữa hai nơ-ron, não sẽ cho nối kết ấy là quan trọng nên **bọc sợi trục** với chất [myelin] để nâng cấp những nối kết ấy, khiến xung điện được trao đổi nhanh hơn và không bị loãng.
 
-#### 2.2.3 Thực tập
+Khi bạn dọn đến ở nhà mới, ban đầu môi trường lạ và không quen thuộc, bạn chạy xe đi làm mỗi ngày nó quen thuộc hơn hôm trước.
+Sau một thời gian, bạn không cần suy nghĩ, tay chân tự hoạt động đưa bạn đến và về không cần bạn phải suy nghĩ.
+
+#### 2.2.3 Thực tập trở nên tự động
 
 Chăm chú và cẩn thận làm việc, tốt hơn làm nhanh và qua loa.
 Khi làm chuẩn một công việc nhiều lần thì kết nối giữa những nơ-ron sẽ được nâng cấp khiến cho công việc ấy trở nên [tính tự động][automaticity].
-Khi đã điêu luyện một động tác thì không cần tính toán, bộ óc sẽ thực hiện việc ấy trong tiềm thức (như chạy bộ hoặc dùng Telex để gõ tiếng Việt).
+Khi đã điêu luyện một động tác thì không cần tính toán, bộ óc sẽ thực hiện việc ấy trong **tiềm thức** (như chạy bộ hoặc dùng Telex để gõ tiếng Việt).
+Trung bình bộ óc có khả năng suy tính khoảng 40 thông tin một giây; nhưng khả năng suy tính của tiềm thức lên đến **20 triệu** thông tin một giây.
 
 Mỗi ngày tập thực hiện `3VHN` cho hoàn hảo thì bạn kết nối mạng lưới nơ-ron để khi bạn viết việc gì trong danh mục ấy, thì bộ óc sẽ thực hiện cách tự động.
 
@@ -102,20 +107,20 @@ Mỗi ngày tập thực hiện `3VHN` cho hoàn hảo thì bạn kết nối m�
 
 Có những việc mình không cần nhớ như: hôm nay cần phải làm gì, hoặc mấy giờ phải đi đón con.
 Loài người nên dùng bộ óc để làm những công việc cần suy nghĩ và tính toán hơn là để nhớ.
-Những công việc để khiến nơ-ron kết nối tiện hơn cho việc học hỏi, tính toán và kế hoạch có giá trị hơn là để nhớ những danh sách công tác cần làm.
+Làm những công việc khiến nơ-ron kết nối tiện cho việc học hỏi, tính toán và kế hoạch có giá trị hơn là để nhớ những danh sách công tác cần làm.
 
 #### 2.3.2 Trao gánh nặng nhớ cho Google Keep
 
 Những việc mình cố nhớ sẽ nằm trong óc không giải quyết được (như gọi hỏi thăm mẹ) nó sẽ làm tâm trí nặng nề.
-Khi có kế hoạch xử lý như: _thứ 6 lúc 7p sẽ gọi cho mẹ_, và bạn viết xuống trong danh mục `3VHN` bớt gánh nặng cho tâm trí.
-Có kế hoạch để giải quyết những công việc thì tâm trí không còn phải _cưu mang_ vì đối với óc, mình đã giải quyết xong.
+Khi **có kế hoạch xử lý** như: _thứ 6 lúc 7p sẽ gọi cho mẹ_, và bạn viết xuống trong danh mục `3VHN` bớt gánh nặng cho tâm trí.
+Có kế hoạch để giải quyết những công việc thì tâm trí không còn phải _cưu mang_ vì đối với óc, bạn đã giải quyết xong công việc ấy.
 
 Tốt hơn là để lịch giữ những cuộc hẹn và dùng [Google Keep] để nhớ những công việc không đòi hỏi thời gian nhất định.
 
 #### 2.3.3 Nhớ giữ hẹn
 
 Việc quan trọng nhất là khả năng của bạn giữ tín nhiệm với những chương trình mình đề ra.
-Nếu bạn không tín nhiệm thì bộ óc nó sẽ **coi thường** mình và cho là bạn sẽ thất hứa... làm cho gánh ấy nặng nề hơn vì lo lắng.
+Nếu bạn bất tín thì bộ óc sẽ **coi thường** và cho rằng bạn sẽ thất hứa... làm cho gánh ấy nặng nề hơn vì lo lắng.
 
 #### 2.3.4 Thực hiện
 
@@ -128,7 +133,7 @@ Những việc bạn hoãn lại nếu để lâu, nó sẽ chai và vô hiệu 
 * Ngày hôm sau phải cố ý thực hiện xong `2VHN`
 * Sau khi thực hiện xong chuyển việc `HL` lên trên và cố gắng thực hiện
 
-<img src="https://github.com/GospelTrust/new-bottle-project/blob/master/chapter-2/c2-google-keep-action-list.png" width="200"/> <img src="https://github.com/GospelTrust/new-bottle-project/blob/master/chapter-2/c2-google-keep-completed.png" width="200"/>
+<img src="https://github.com/GospelTrust/new-bottle-project/blob/master/chapter-2/c2-google-keep-action-list.png" width="400"/> <img src="https://github.com/GospelTrust/new-bottle-project/blob/master/chapter-2/c2-google-keep-completed.png" width="400"/>
 
 ---
 
@@ -136,7 +141,7 @@ Những việc bạn hoãn lại nếu để lâu, nó sẽ chai và vô hiệu 
 
 #### 2.4.1 Hóa chất vui
 
-Khi chiến thắng bộ óc sẽ thải ra hóa chất thần kinh (`HCTK`) [dopamine] làm cho bạn cảm thấy thỏa mãn.
+Khi thắng bộ óc sẽ thải ra hóa chất thần kinh (`HCTK`) [dopamine] làm cho bạn cảm thấy thỏa mãn.
 
 Vì sao hoàn tất 3 việc đơn giản có thể tạo niềm vui?
 Khi bạn kết thúc một công viêc, bộ thần kinh sẽ tỏa ra chất _dopamine_ khiến cho cơ thể _thưởng thức_ sự khoái lạc.
