@@ -82,7 +82,7 @@ Tôi sẽ chia xẻ mẫu danh sách theo dõi thời gian để bạn sao lại
 * Chia xẻ bản `Time & Energy Tracker` với tôi
 * Cứ mỗi 30 phút bạn ghi xuống: mức năng lượng và công việc làm
 
-<img src="https://github.com/GospelTrust/new-bottle-project/blob/master/chapter-3/c3-google-keep-copy-share.gif" />
+<img src="/chapter-3/c3-google-keep-copy-share.gif" />
 
 #### 3.1.4 Mẫu theo dõi việc làm và năng lượng
 
@@ -130,7 +130,7 @@ Tôi sẽ chia xẻ mẫu danh sách theo dõi thời gian để bạn sao lại
 |   `[ ]` 6:30 -                         |
 |   `[ ]` ...                            |
 
-<img src="https://github.com/GospelTrust/new-bottle-project/blob/master/chapter-3/c3-google-keep-time-track.png" width="400"/> <img src="https://github.com/GospelTrust/new-bottle-project/blob/master/chapter-3/c3-google-keep-time-track-day-span.png" width="400"/>
+<img src="/chapter-3/c3-google-keep-time-track.png" width="400"/> <img src="/chapter-3/c3-google-keep-time-track-day-span.png" width="400"/>
 
 #### 3.1.5 Đo mức năng lượng
 
@@ -154,11 +154,11 @@ Dùng con số trong bản dưới làm số năng lượng:
 
 Để chọn giờ khởi đầu, bạn đánh dấu những ngày và giờ đã qua hoặc khởi đầu buổi sáng hôm sau:
 
-<img src="https://github.com/GospelTrust/new-bottle-project/blob/master/chapter-3/c3-google-keep-start.gif"/>
+<img src="/chapter-3/c3-google-keep-start.gif"/>
 
 Sau khi bạn đã cập nhật hết ngày Chủ Nhật, bạn phục hồi những ngày trước lên trên để tiếp tục cho đến điểm khởi đầu của bạn:
 
-<img src="https://github.com/GospelTrust/new-bottle-project/blob/master/chapter-3/c3-google-keep-restore.gif"/>
+<img src="/chapter-3/c3-google-keep-restore.gif"/>
 
 [Hê-bơ-rơ 6:11-12]: https://twosparro.ws/bible/cadman.heb.6.11
 [Rô-ma 12:11]: https://twosparro.ws/bible/cadman.rom.12.11
