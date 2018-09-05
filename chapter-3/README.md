@@ -156,9 +156,23 @@ Dùng con số trong bản dưới làm số năng lượng:
 
 <img src="/chapter-3/c3-google-keep-start.gif"/>
 
-Sau khi bạn đã cập nhật hết ngày Chủ Nhật, bạn phục hồi những ngày trước lên trên để tiếp tục cho đến điểm khởi đầu của bạn:
+#### 3.1.6 Trở lại những ngày đầu tuần
+
+Sau khi bạn đã cập nhật đến hết ngày Chủ Nhật, bạn phục hồi những ngày trước lên trên để tiếp tục cho đến điểm khởi đầu của bạn:
 
 <img src="/chapter-3/c3-google-keep-restore.gif"/>
+
+---
+
+### 3.2 Vượt qua sự trì hoãn
+
+#### 3.2.1 Đóng khuôn thời gian để tâm trí dễ xử lý
+
+#### 3.2.2 Tập chạy theo giây để không bị trễ
+
+#### 3.3.3 Ngừng lại trước khi xong việc
+
+---
 
 [Hê-bơ-rơ 6:11-12]: https://twosparro.ws/bible/cadman.heb.6.11
 [Rô-ma 12:11]: https://twosparro.ws/bible/cadman.rom.12.11
