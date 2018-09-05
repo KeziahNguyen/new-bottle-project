@@ -173,7 +173,7 @@ Tâm trí của con người thèm trật tự nên khi chọn 3 việc làm nê
 3. Ai là đối tượng?
 4. Tôi có thể chia ra thành những phần nhỏ hơn để làm được không?
 
-| Việc làm       | Giờ                      | Đối tượng                    | Chia ra phần nhỏ                |
+| Thay vì        | Chi tiết hơn: Thêm giờ   | Hay hơn: thêm đối tượng      | Dễ hơn: Chia ra phần nhỏ        |
 |--------------- | ------------------------ | ---------------------------- | ------------------------------- |
 | Đi nhóm TP     | Đi đến NT trước 5'       | Hỏi thăm bé Tú sau buổi nhóm | Chuẩn bị tiền dâng trước khi đi |
 | Đi thăm viếng  | Gọi Trang hỏi giờ tiện   | Rủ Sáu đi thăm Bẩy T5        | Nhắn tin cho Thu lâu không gặp  |
