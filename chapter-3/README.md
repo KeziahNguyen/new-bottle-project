@@ -154,7 +154,7 @@ Dùng con số trong bản dưới làm số năng lượng:
 
 Để chọn giờ khởi đầu, bạn đánh dấu những ngày và giờ đã qua hoặc khởi đầu buổi sáng hôm sau:
 
-<img src="/chapter-3/c3-google-keep-start.gif"/>
+<img src="/chapter-3/c3-google-keep-timelog-tutorial.gif"/>
 
 #### 3.1.6 Trở lại những ngày đầu tuần
 
