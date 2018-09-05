@@ -38,15 +38,46 @@ Khi tính các công việc bạn làm, mình sẽ phân lạoi theo các mục 
 
 #### 1.1.3 Thực hiện bài tập
 
-Bạn tải xuống tập tin [c1-time-accounting-sheets.xlsx].
-Nếu không có [Microsoft Excel] bạn có thể dùng [Google Sheets] miễn phí.
+Tải xuống tập tin [c1-time-accounting-sheets.xlsx].
+Nếu không có [Microsoft Excel] bạn có thể dùng [Google Sheets] miễn phí ([Android] hoặc [iOS]).
 Khi mở tập tin ra bạn thấy có 5 cột như sau:
 
-| Cột | Chú thích |
+| Cột                      | Chú thích                                                                              |
+| ------------------------ | -------------------------------------------------------------------------------------- |
+| `Thời gian/ngày`         | Thời gian dành cho việc này trong một ngày; dùng dạng `hh:mm` ví dụ, 3h 20 phút (3:20) |
+| `Số ngày thực hiện/tuần` | Số ngày trong tuần bạn làm công tác này                                                |
+| `Việc làm`               | Chi tiết việc làm là gì                                                                |
+| `Thể loại`               | Một trong 8 thể loại miêu tả ở phần trên (`1.1.2`)                                     |
+| `Phút/tuần`              | (**Đừng đổi**) Số phút cho việc ngày trong một tuần sẽ tự động tính                    |
+
+<img src="/chapter-1/c1-google-sheets-tutorial.gif"/>
+
+#### 1.1.4 Những việc nên lưu ý
+
+Càng nhiều chi tiết mới dễ cho bạn thay đổi.
+Ví dụ bạn ngủ mỗi ngày một giờ khác nhau, thay vì:
+
+| Giờ  | Ngày | Việc | Thể loại |
+| ---- | ---- | ---- | -------- |
+| 7:00 | 7    | Ngủ  | Xác thịt |
+
+Bạn đổi thành:
+
+| Giờ   | Ngày | Việc        | Thể loại |
+| ----- | ---- | ----------- | -------- |
+| 5:00  | 1    | T2 Ngủ      | Xác thịt |
+| 6:20  | 1    | T3 Ngủ      | Xác thịt |
+| 7:00  | 1    | T4 Ngủ      | Xác thịt |
+| 4:00  | 1    | T5 & T6 Ngủ | Xác thịt |
+| 10:00 | 1    | T7 Ngủ      | Xác thịt |
+| 8:00  | 1    | CN Ngủ      | Xác thịt |
 
 ---
 
 ### 1.2 Mục tiêu cho `BM`
+
+Khi bạn đã làm bài `1.1` xong, dựa trên đó, bạn qua tab `Goal` của [c1-time-accounting-sheets.xlsx].
+So sánh với trang `Current` bạn tinh cách sử dụng thời gian cho tương lai mình cho thích hợp với `BM`.
 
 [Ê-phê-sô 5:16]: https://twosparro.ws/bible/cadman/eph.5.16
 [2 Cô-rinh-tô 5:10]: https://twosparro.ws/bible/cadman/2co.5.10
@@ -55,3 +86,5 @@ Khi mở tập tin ra bạn thấy có 5 cột như sau:
 [c1-time-accounting-sheets.xlsx]: ../../../raw/master/chapter-1/c1-time-accounting-sheets.xlsx
 [Microsoft Excel]: https://products.office.com/en-us/excel
 [Google Sheets]: https://www.google.com/sheets/about/
+[Android]: https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets
+[iOS]: https://itunes.apple.com/us/app/google-sheets/id842849113
