@@ -133,7 +133,7 @@ Những việc bạn hoãn lại nếu để lâu, nó sẽ chai và vô hiệu 
 * Ngày hôm sau phải cố ý thực hiện xong `2VHN`
 * Sau khi thực hiện xong chuyển việc `HL` lên trên và cố gắng thực hiện
 
-<img src="https://github.com/GospelTrust/new-bottle-project/blob/master/chapter-2/c2-google-keep-action-list.png" width="400"/> <img src="https://github.com/GospelTrust/new-bottle-project/blob/master/chapter-2/c2-google-keep-completed.png" width="400"/>
+<img src="/chapter-2/c2-google-keep-action-list.png" width="400"/> <img src="/chapter-2/c2-google-keep-completed.png" width="400"/>
 
 ---
 
