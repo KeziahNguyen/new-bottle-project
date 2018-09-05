@@ -163,6 +163,25 @@ Nhưng tôi tin rằng bạn sẽ [thành công][1 Cô-rinh-tô 15:57] vì chún
 
 *Đưa ra mục tiêu cho ngày mai và hãy thực hiện cho hoàn hảo.*
 
+#### 2.4.4 Cách chọn khéo léo
+
+Khi bạn chọn 3 việc, viết xuống càng chi tiết để việc làm nó có khuôn khổ.
+Tâm trí của con người thèm trật tự nên khi chọn 3 việc làm nên trả lời những câu hỏi này:
+
+1. Công việc gì?
+2. Làm khoảng bao lâu?
+3. Ai là đối tượng?
+4. Tôi có thể chia ra thành những phần nhỏ hơn để làm được không?
+
+| Việc làm       | Giờ                      | Đối tượng                    | Chia ra phần nhỏ                |
+|--------------- | ------------------------ | ---------------------------- | ------------------------------- |
+| Đi nhóm TP     | Đi đến NT trước 5'       | Hỏi thăm bé Tú sau buổi nhóm | Chuẩn bị tiền dâng trước khi đi |
+| Đi thăm viếng  | Gọi Trang hỏi giờ tiện   | Rủ Sáu đi thăm Bẩy T5        | Nhắn tin cho Thu lâu không gặp  |
+| Suy gẫm Tđ 7   | Dành 12' suy gẫm Tđ 7    | Viết xuống 5 chữ về Tđ 7     | Học thuộc lòng Tđ 7:8           |
+| Tập đàn        | Tập bài _Glory_ 15'      | Tập cách để ý Chúa khi đàn   | Đàn bài _Bautiful_ trôi 5x      |
+| Cầu nguyện     | CN 5' sau khi thức giậy  | CN cho những giáo viên HT    | CN tiếng lạ 3'                  |
+| Chở vợ đi làm  | Thức sớm hơn vợ 1h (5a)  | Vui vẻ, chìu vợ lúc chở đi   | Đổ đầy xăng cho xe vợ tối nay   |
+
 [Truyền-đạo 7:8]: https://twosparro.ws/bible/cadman.ec.7.8
 [Lu-ca 10:40]: https://twosparro.ws/bible/cadman.lu.10.40
 [Lu-ca 10:42]: https://twosparro.ws/bible/cadman.lu.10.42
