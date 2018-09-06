@@ -2,9 +2,7 @@
 
 > Mỗi người trong anh em tỏ lòng sốt sắng...đến nỗi anh em không trễ nải. ([Hê-bơ-rơ 6:11-12])
 
-## Giới thiệu
-
-### Trễ là bệnh tâm lý
+## Trễ là bệnh tâm lý
 
 Chúng ta chờ đợi đến phút cuối mới làm việc vì không ước chừng được thời gian đòi hỏi để hoàn tất công việc.
 Con người thích sinh hoạt trong phạm vi có khuôn khổ; xem phim là một trong những việc làm có trình tự: có khởi đầu và kết thúc.
@@ -15,14 +13,14 @@ Khi bạn cần phải thi hành bài học này, bạn không rõ cần bao nhi
 Sau khi làm xong bài học, bạn vẫn không biết có được chưa nên tâm trí nó ngại, không muốn dùng nhiều năng lực cho việc không rõ.
 Bên cạnh bạn có cái mạng YouTube, bạn biết mình chỉ cần bấm nút rồi _xem_, khi hết nó sẽ tắt và bộ não không cần bận tâm nữa.
 
-### Chỗ nấp của sự lười biếng
+## Chỗ nấp của sự lười biếng
 
 Phần đông không cho mình là lười _chuyên nghiệp_.
 Bạn theo dõi cách sử dụng thời gian hằng ngày mới khám phá không những chỗ nấp của sự lười biếng, nhưng theo dõi được cách bạn quản lý thời gian và sức lực.
 
 Sự khó khăn của bài này là nó đòi hỏi phải siêng năng làm bài mới có thể thay đổi được tính lười biếng của mình.
 
-### Hầu việc Chúa đòi hỏi sự siêng năng
+## Hầu việc Chúa đòi hỏi sự siêng năng
 
 > Hãy siêng năng mà chớ làm biếng; phải có lòng sốt sắng; phải hầu việc Chúa. ([Rô-ma 12:11])
 
@@ -31,7 +29,7 @@ Chúa [vẫn tiếp tục làm việc cho đến ngày nay][Giăng 5:17], Ngài 
 
 Chúng ta nên học tính hạnh của những người đi trước trong công tác phục vụ Nước Đức Chúa Trời.
 
-#### Chúa Jêsus
+### Chúa Jêsus
 
 > Trong khi còn là ban ngày, Ta phải làm trọn những việc của Đấng đã sai ta đến; tối lại, thì không ai làm việc được. ([Giăng 9:4])
 
@@ -39,18 +37,18 @@ Nếu bạn đang bước đi với Chúa Jesus thì sẽ không dám làm biế
 Câu nói Chúa cho chúng ta thấy Ngài không ngừng trong công tác của Cha.
 Môn đồ của Chúa không thể lười được vì Chủ không có tính nết này.
 
-#### Phao-lô
+### Phao-lô
 
 > Tôi đã làm nhiều việc hơn các người khác, nhưng nào phải tôi, ben là ơn Đức Chúa Trời đã ở cùng tôi. ([1 Cô-rinh-tô 15:10])
 
 Ngay cả khi Pha-lô ở trong tù, ông cũng không ngừng làm việc.
 Ông làm việc tích cực đến nỗi cái khăn và áo của ông cũng [tiếp tục làm việc][Công-vụ 19:12] trong lúc ông ở trong tù.
 
-## Dàn bài
+# Dàn bài
 
-### 3.1 Theo dõi việc làm và thời gian
+## 3.1 Theo dõi việc làm và thời gian
 
-#### 3.1.1 Mât tập trung, mất thời gian
+### 3.1.1 Mất tập trung, mất thời gian
 
 Để biết chính xác mình làm gì trong ngày, bạn phải có một hệ thống theo dõi việc làm.
 Bạn cần biết mình làm gì mới có thể thay đổi trở nên `BM`.
@@ -60,14 +58,14 @@ Bạn thuộc câu, làm việc phải [làm hết lòng và sức][Cô-lô-se 3
 
 Mình không có nhiều thời gian trên đất này để tập trung làm việc, vì như So-lô-môn khuyên, những việc gì làm được, hãy làm hết sức, vì khi xuống tới [Âm-phủ thì chẳng có việc để làm][Truyền-đạo 9:10].
 
-#### 3.1.2 Chia thời gian ra từng lát để theo dõi
+### 3.1.2 Chia thời gian ra từng lát để theo dõi
 
 Khi bạn liệt kê công việc ngay sau khi thực hiện, thì sẽ tạo được một sơ đồ công tác trong tuần lễ sinh hoạt.
 Bạn chia một ngày thành từng _lát_, thay vì một tiếng, thì cứ 30 phút là một lát để dễ kiểm tra.
 Mỗi 30 phút (0 và 30), bạn ghi xuống công việc gì mình vừa làm xong nửa tiếng trước.
-Cùng với năng lượng bạn sẽ ghi xuống mức năng lượng của bạn trong 30 phút trước.
+Kèm theo việc là bạn sẽ ghi xuống **mức năng lượng** của bạn trong 30 phút trước.
 
-#### 3.1.3 Bài tập
+### 3.1.3 Bài tập
 
 Tôi sẽ chia xẻ mẫu danh sách theo dõi thời gian để bạn sao lại trong Google Keep.
 
@@ -84,7 +82,7 @@ Tôi sẽ chia xẻ mẫu danh sách theo dõi thời gian để bạn sao lại
 
 <img src="/chapter-3/c3-google-keep-copy-share.gif" />
 
-#### 3.1.4 Mẫu theo dõi việc làm và năng lượng
+### 3.1.4 Mẫu theo dõi việc làm và năng lượng
 
 | Time & Energy Tracker                  |
 | -------------------------------------- |
@@ -132,7 +130,7 @@ Tôi sẽ chia xẻ mẫu danh sách theo dõi thời gian để bạn sao lại
 
 <img src="/chapter-3/c3-google-keep-time-track.png" width="400"/> <img src="/chapter-3/c3-google-keep-time-track-day-span.png" width="400"/>
 
-#### 3.1.5 Đo mức năng lượng
+### 3.1.5 Đo mức năng lượng
 
 Mức năng lượng của bạn trong khoảng thời gian 30 phút đo từ `0` (nhủ gục) đến `9` (tập trung 100%).
 Dùng con số trong bản dưới làm số năng lượng:
@@ -150,13 +148,13 @@ Dùng con số trong bản dưới làm số năng lượng:
 | `8` | Tập trung 80-90%           |
 | `9` | Tập trung 100%             |
 
-#### 3.1.5 Chọn giờ khởi đầu
+### 3.1.5 Chọn giờ khởi đầu
 
 Để chọn giờ khởi đầu, bạn đánh dấu những ngày và giờ đã qua hoặc khởi đầu buổi sáng hôm sau:
 
 <img src="/chapter-3/c3-google-keep-timelog-tutorial.gif"/>
 
-#### 3.1.6 Trở lại những ngày đầu tuần
+### 3.1.6 Trở lại những ngày đầu tuần
 
 Sau khi bạn đã cập nhật đến hết ngày Chủ Nhật, bạn phục hồi những ngày trước lên trên để tiếp tục cho đến điểm khởi đầu của bạn:
 
@@ -164,13 +162,13 @@ Sau khi bạn đã cập nhật đến hết ngày Chủ Nhật, bạn phục h�
 
 ---
 
-### 3.2 Vượt qua sự trì hoãn
+## 3.2 Vượt qua sự trì hoãn
 
-#### 3.2.1 Đóng khuôn thời gian để tâm trí dễ xử lý
+### 3.2.1 Đóng khuôn thời gian để tâm trí dễ xử lý
 
-#### 3.2.2 Tập chạy theo giây để không bị trễ
+### 3.2.2 Tập chạy theo giây để không bị trễ
 
-#### 3.3.3 Ngừng lại trước khi xong việc
+### 3.3.3 Ngừng lại trước khi xong việc
 
 ---
 
