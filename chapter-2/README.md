@@ -2,9 +2,7 @@
 
 > Cuối-cùng của một việc hơn sự khởi-đầu nó; lòng kiên-nhẫn hơn lòng kiêu-ngạo. ([Truyền-đạo 7:8])
 
-## Giới thiệu
-
-### Ma-ri hoặc Ma-thê?
+## Ma-ri hoặc Ma-thê?
 
 Nâng cao năng suất không phải là làm [nhiều việc][Lu-ca 10:40] nhưng làm những việc **quan trọng**.
 Nếu bạn hãnh diện về khả năng làm nhiều việc và đã đánh dấu hết những ô cần làm thì bạn không khác gì một cái máy.
@@ -16,20 +14,20 @@ làm vậy không những dễ nản, nhưng làm người khác bực mình và
 Ma-thê lo nhiều việc, nhưng Ma-ri chỉ làm một việc thôi.
 Giữa hai chị em, Chúa [khen][Lu-ca 10:42] ai?
 
-### Biết sắp đặt thứ tự
+## Biết sắp đặt thứ tự
 
 Không phải mọi việc trong danh dách làm việc của bạn đều quan trọng như nhau.
 Có những việc “tốt” bạn có thể làm nhưng nó không hẳn là những việc _quan trọng_ và cần thiết.
 Bạn phải **có kế hoạch** để thực hiện những việc thiết thực nhất trong ngày.
 
-## Dàn bài
+# Dàn bài
 
-### 2.1 Ba việc hôm nay (`3VHN`)
+## 2.1 Ba việc hôm nay (`3VHN`)
 
 Chọn ra 3 việc cần phải hoàn tất trong ngày.
 Nếu không có kế hoạch thì óc sẽ phản ứng (dùng _amigdala_) mỗi khi việc đến làm tốn thời gian không ích lợi hoặc kết quả. 
 
-#### 2.1.1 Tối hôm trước
+### 2.1.1 Tối hôm trước
 
 Mỗi cuối ngày trước khi đi ngủ:
 
@@ -39,7 +37,7 @@ Mỗi cuối ngày trước khi đi ngủ:
 * Viết xuống 3 việc cho ngày mai trong danh sách `3VHN`
 * Nếu muốn thực hiện việc trong danh sách `HL` thì dời từ đó qua mục `3VHN`
 
-#### 2.1.2 Sáng hôm sau
+### 2.1.2 Sáng hôm sau
 
 Trước khi làm thủ tục vệ sinh buổi sáng:
 
@@ -47,7 +45,7 @@ Trước khi làm thủ tục vệ sinh buổi sáng:
 * Sắp lại thứ tự của 3 việc theo tầm quan trọng từ trên xuống
 * Ước chừng mấy giờ có thể thực hiện việc đầu tiên trong `3VHN`
 
-#### 2.1.3 Công cụ cần: Google Keep
+### 2.1.3 Công cụ cần: Google Keep
 
 Tôi sẽ dùng [Google Keep] ([iOS] hoặc [Android]) để tạo 2 danh sách: `3VHN` và `HL` theo sau:
 
@@ -61,7 +59,7 @@ Tôi sẽ dùng [Google Keep] ([iOS] hoặc [Android]) để tạo 2 danh sách:
 |   `[ ]` Gọi ĐT cho mẹ      |
 |   `[ ]` Chọn 5 bài TP      |
 
-#### 2.1.4 Thực hiện
+### 2.1.4 Thực hiện
 
 Tôi sẽ soạn **3** việc mỗi ngày để bạn sao chép và dán trong mục `3VHN` của bạn.
 Thực hiệc bài tập như sau:
@@ -74,14 +72,14 @@ Thực hiệc bài tập như sau:
 
 ---
 
-### 2.2 Cách hoạt động của bộ nhớ
+## 2.2 Cách hoạt động của bộ nhớ
 
-#### 2.2.1 Mạng lưới tế bào thần kinh
+### 2.2.1 Mạng lưới tế bào thần kinh
 
 Bộ óc của chúng ta là mạng lưới của những tế bào thần kinh ([Nơ-ron]).
 Nếu bộ óc là bộ nhớ của máy vi tính thì chúng ta có thể chứa được **2.5 Petabytes**, hoặc 300 triệu giờ YouTube HD (nếu ngồi xem hết 24h một ngày thì khoảng **300 năm** mới hết phim).
 
-#### 2.2.2 Nâng cấp khả năng thông tin
+### 2.2.2 Nâng cấp khả năng thông tin
 
 Dù có khả năng rất lớn nhưng những nơ-ron này cần phải _nối kết với nhau_ qua những [sợi trục] để gửi thông tin trong dạng xung điện (_electrochemical_) tạo thành nền tảng cho trí nhớ.
 
@@ -90,7 +88,7 @@ Khi những **sợi trục được nối kết nhiều lần** giữa hai nơ-r
 Khi bạn dọn đến ở nhà mới, ban đầu môi trường lạ và không quen thuộc, bạn chạy xe đi làm mỗi ngày nó quen thuộc hơn hôm trước.
 Sau một thời gian, bạn không cần suy nghĩ, tay chân tự hoạt động đưa bạn đến và về không cần bạn phải suy nghĩ.
 
-#### 2.2.3 Thực tập trở nên tự động
+### 2.2.3 Thực tập trở nên tự động
 
 Chăm chú và cẩn thận làm việc, tốt hơn làm nhanh và qua loa.
 Khi làm chuẩn một công việc nhiều lần thì kết nối giữa những nơ-ron sẽ được nâng cấp khiến cho công việc ấy trở nên [tính tự động][automaticity].
@@ -101,15 +99,15 @@ Mỗi ngày tập thực hiện `3VHN` cho hoàn hảo thì bạn kết nối m�
 
 ---
 
-### 2.3 Giảm bớt gánh nặng của bộ nhớ
+## 2.3 Giảm bớt gánh nặng của bộ nhớ
 
-#### 2.3.1 Dùng óc để suy nghĩ thay vì để ghi nhớ
+### 2.3.1 Dùng óc để suy nghĩ thay vì để ghi nhớ
 
 Có những việc mình không cần nhớ như: hôm nay cần phải làm gì, hoặc mấy giờ phải đi đón con.
 Loài người nên dùng bộ óc để làm những công việc cần suy nghĩ và tính toán hơn là để nhớ.
 Làm những công việc khiến nơ-ron kết nối tiện cho việc học hỏi, tính toán và kế hoạch có giá trị hơn là để nhớ những danh sách công tác cần làm.
 
-#### 2.3.2 Trao gánh nặng nhớ cho Google Keep
+### 2.3.2 Trao gánh nặng nhớ cho Google Keep
 
 Những việc mình cố nhớ sẽ nằm trong óc không giải quyết được (như gọi hỏi thăm mẹ) nó sẽ làm tâm trí nặng nề.
 Khi **có kế hoạch xử lý** như: _thứ 6 lúc 7p sẽ gọi cho mẹ_, và bạn viết xuống trong danh mục `3VHN` bớt gánh nặng cho tâm trí.
@@ -117,12 +115,12 @@ Có kế hoạch để giải quyết những công việc thì tâm trí không
 
 Tốt hơn là để lịch giữ những cuộc hẹn và dùng [Google Keep] để nhớ những công việc không đòi hỏi thời gian nhất định.
 
-#### 2.3.3 Nhớ giữ hẹn
+### 2.3.3 Nhớ giữ hẹn
 
 Việc quan trọng nhất là khả năng của bạn giữ tín nhiệm với những chương trình mình đề ra.
 Nếu bạn bất tín thì bộ óc sẽ **coi thường** và cho rằng bạn sẽ thất hứa... làm cho gánh ấy nặng nề hơn vì lo lắng.
 
-#### 2.3.4 Thực hiện
+### 2.3.4 Thực hiện
 
 Trong danh sách bạn có 2 đề mục: `3VHN` và `HL`.
 Những việc bạn hoãn lại nếu để lâu, nó sẽ chai và vô hiệu hóa danh sách thực hiện công việc của bạn.
@@ -137,9 +135,9 @@ Những việc bạn hoãn lại nếu để lâu, nó sẽ chai và vô hiệu 
 
 ---
 
-### 2.4 Mùi vị của sự thành công
+## 2.4 Mùi vị của sự thành công
 
-#### 2.4.1 Hóa chất vui
+### 2.4.1 Hóa chất vui
 
 Khi thắng bộ óc sẽ thải ra hóa chất thần kinh (`HCTK`) [dopamine] làm cho bạn cảm thấy thỏa mãn.
 
@@ -147,12 +145,12 @@ Vì sao hoàn tất 3 việc đơn giản có thể tạo niềm vui?
 Khi bạn kết thúc một công viêc, bộ thần kinh sẽ tỏa ra chất _dopamine_ khiến cho cơ thể _thưởng thức_ sự khoái lạc.
 Lúc bạn thắng một cuộc đua hoặc được nhận vào công ty mình ao ước, cái cảm giác **đã** là ảnh hưởng của dopamine trong não.
 
-#### 2.4.2 `HCTK` không vị nể
+### 2.4.2 `HCTK` không vị nể
 
 Những kết nối thần kinh không phân biệt được bạn đã trúng số, hoặc đã xong cầu nguyện 3 phút.
 Khi hoàn tất một việc, bộ não sẽ phát ra hóa chất khoái lạc, _dopamine_.
 
-#### 2.4.3 Không phải mọi sự đều tốt
+### 2.4.3 Không phải mọi sự đều tốt
 
 Ngược lại, khi không hoàn tất việc, não bị căn thẳng và thải ra `HCTK` [cortisol] để tăng áp huyết và giảm [serotonin] làm cho buồn và chán (để mình sợ và không dám làm nữa).
 Khi thành công, cảm giác khoái lạc chỉ duy trì trong _khoảng thời gian ngắn_; còn khi thất bại, cảm giác nản và thất vọng sẽ _duy trì lâu dài_. 
@@ -163,7 +161,7 @@ Nhưng tôi tin rằng bạn sẽ [thành công][1 Cô-rinh-tô 15:57] vì chún
 
 *Đưa ra mục tiêu cho ngày mai và hãy thực hiện cho hoàn hảo.*
 
-#### 2.4.4 Cách chọn khéo léo
+### 2.4.4 Cách chọn khéo léo
 
 Khi bạn chọn 3 việc, viết xuống càng chi tiết để việc làm nó có khuôn khổ.
 Tâm trí của con người thèm trật tự nên khi chọn 3 việc làm nên trả lời những câu hỏi này:
