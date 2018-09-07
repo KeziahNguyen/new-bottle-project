@@ -65,20 +65,7 @@ Bạn chia một ngày thành từng _lát_, thay vì một tiếng, thì cứ 3
 Mỗi 30 phút (0 và 30), bạn ghi xuống công việc gì mình vừa làm xong nửa tiếng trước.
 Kèm theo việc là bạn sẽ ghi xuống **mức năng lượng** của bạn trong 30 phút trước.
 
-### 3.1.3 Bài tập
-
-Tôi sẽ chia xẻ mẫu danh sách theo dõi thời gian để bạn sao lại trong Google Keep.
-
-* Sao lại bản mẫu cho riêng mình
-* Tìm ngày và giờ bạn khởi đầu, ví dụ:
-  * Bạn đọc xong hướng dẫn này lúc 10:40a thứ 4
-  * Đánh dấu mục `Monday` và `Tuesday`
-  * Đánh dấu những ô trong `Wednesday` từ `0:00` đến `10:00`
-* Đúng `11:00` bạn sẽ viết xuống hàng:
-  * `[X] 10:30 - 6 - Học bài 3.1.3`
-  * Đánh dấu ô để qua lát giờ kế tiếp
-* Chia xẻ bản `Time & Energy Tracker` với tôi
-* Cứ mỗi 30 phút bạn ghi xuống: mức năng lượng và công việc làm
+### 3.1.3 Cách chia xẻ Google Keep note
 
 <img src="/chapter-3/c3-google-keep-copy-share.gif" />
 
@@ -159,6 +146,23 @@ Dùng con số trong bản dưới làm số năng lượng:
 Sau khi bạn đã cập nhật đến hết ngày Chủ Nhật, bạn phục hồi những ngày trước lên trên để tiếp tục cho đến điểm khởi đầu của bạn:
 
 <img src="/chapter-3/c3-google-keep-restore.gif"/>
+
+---
+
+### Thực hiện bài tập `#3.1`
+
+<img src="../icons/flying-bottle.svg" width="100">
+
+| Mục | Thực hiện / trách nhiệm |
+| --- | --- |
+| Lấy bài tập | Copy bài tôi share trong Google Keep |
+| Giờ khởi đầu | Chỉnh lại giờ khởi đầu bằng cách đánh dấu nhưng giờ đã qua cho đến hiện tại |
+| Tìm giờ hiện tại | Nếu hiện tại là T4 @ 10:15, tìm mục `Wednesday`, đánh dấu hết cho đến `9:30` |
+| Năng lượng | Ghi xuống mức năng lượng theo phần `3.1.5`, ví dụ, bạn mới ăn xong mệt, ghi `4` cho mức năng lượng |
+| Việc làm | Kế đến bạn sẽ ghi `Ăn sáng, xem tin tức` |
+| Đánh dấu | Sau khi ghi xong việc làm bạn đánh dấu để giờ `10:00` lên phía trên cùng |
+| Mỗi nửa tiếng | Lúc `10:30` bạn sẽ mở note ra và ghi **năng lượng** với **việc làm** cho nửa tiếng trước (`10:00`) |
+| <img src="../icons/icon-time.svg" width="40"/> | Bạn có `8` ngày để thực hiện và hoàn tất |
 
 ---
 
