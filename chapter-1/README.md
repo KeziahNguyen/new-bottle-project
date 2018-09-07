@@ -21,9 +21,9 @@ Sau khi bạn nhìn thấy rõ cách sử dụng thời gian của mình vào c�
 
 ### 1.1.2 Tám khía cạnh của cuộc sống
 
-Khi tính các công việc bạn làm, mình sẽ phân lạoi theo các mục như sau:
+Khi tính các công việc bạn làm, mình sẽ phân lại theo các mục như sau:
 
-| Thể loại    | Ví dụ  |
+| Thể loại    | Ví dụ                                                                    |
 | ----------- | ------------------------------------------------------------------------ |
 | Tâm trí     | Đọc sách, học KT, nghe giảng, học bài, học sinh ngữ, nghiên cứu          | 
 | Thể xác     | Ngủ, ăn, vệ sinh, tắm, nấu, đi chợ, thay tã                              |
@@ -34,7 +34,7 @@ Khi tính các công việc bạn làm, mình sẽ phân lạoi theo các mục 
 | Quan hệ     | Xã giao, thông công, gia đình, thăm viếng, chăm sóc                      |
 | Giải trí    | Chơi, mua sắm, game, TV, lướt mạng                                       |
 
-### 1.1.3 Thực hiện bài tập
+### 1.1.3 Giải thích những bài tập
 
 Tải xuống tập tin [c1-time-accounting-sheets.xlsx].
 Nếu không có [Microsoft Excel] bạn có thể dùng [Google Sheets] miễn phí ([Android] hoặc [iOS]).
@@ -48,18 +48,23 @@ Khi mở tập tin ra bạn thấy có 5 cột như sau:
 | `Thể loại`               | Một trong 8 thể loại miêu tả ở phần trên (`1.1.2`)                                     |
 | `Phút/tuần`              | (**Đừng đổi**) Số phút cho việc ngày trong một tuần sẽ tự động tính                    |
 
+### 1.1.4 Mẫu thực hiện bài tập
+
 <img src="/chapter-1/c1-google-sheets-tutorial.gif"/>
 
-### 1.1.4 Những việc nên lưu ý
+### 1.1.5 Những việc nên lưu ý
 
-Càng nhiều chi tiết mới dễ cho bạn thay đổi.
+Càng nhiều chi tiết thì sẽ dễ hơn cho bạn thay đổi.
 Ví dụ bạn ngủ mỗi ngày một giờ khác nhau, thay vì:
+
+#### Không rõ:
 
 | Giờ  | Ngày | Việc | Thể loại |
 | ---- | ---- | ---- | -------- |
 | 7:00 | 7    | Ngủ  | Xác thịt |
 
-Bạn đổi thành:
+
+#### Tốt hơn:
 
 | Giờ   | Ngày | Việc        | Thể loại |
 | ----- | ---- | ----------- | -------- |
@@ -72,10 +77,37 @@ Bạn đổi thành:
 
 ---
 
+### Thực hiện bài tập `#1.1`
+
+<img src="../icons/flying-bottle.svg" width="100">
+
+| Mục | Thực hiện / trách nhiệm |
+| --- | --- |
+| Lấy bài tập | Tải [c1-time-accounting-sheets.xlsx] xuống máy rồi mở ra |
+| 3 hàng đầu | Chỉnh 3 hàng đầu cho đúng theo thời gian của bạn (xem giải thích ở trên ) |
+| Tính hết giờ | Kế đến, bạn liệt kê hết các công việc trong tuần, càng chi tiết càng tốt |
+| `10080` phút | Để ý tổng số phút phải gần `10080` phút mới đủ phút trong 1 tuần |
+| <img src="../icons/icon-time.svg" width="40"/> | Bạn có `5` ngày để thực hiện và nộp bài |
+
+---
+
 ## 1.2 Mục tiêu cho `BM`
 
 Khi bạn đã làm bài `1.1` xong, dựa trên đó, bạn qua tab `Goal` của [c1-time-accounting-sheets.xlsx].
-So sánh với trang `Current` bạn tinh cách sử dụng thời gian cho tương lai mình cho thích hợp với `BM`.
+So sánh với trang `Current` bạn tính cách sử dụng thời gian cho tương lai mình cho thích hợp với `BM`.
+
+---
+
+### Thực hiện bài tập `#1.2`
+
+<img src="../icons/flying-bottle.svg" width="100">
+
+| Mục | Thực hiện / trách nhiệm |
+| --- | --- |
+| Lấy bài tập | Tôi sẽ gửi lại bài của bạn với những thay đổi nếu có, bạn xóa bài cũ đi |
+| Xem lại | Xem lại bài tôi gửi nếu không hiểu bạn có thể hỏi tôi |
+| Làm `Goal` | Mở tab `Goal` ra và thực hiện như bài `#1.1` nhưng viết những ao ước |
+| <img src="../icons/icon-time.svg" width="40"/> | Bạn có `3` ngày để thực hiện và nộp bài |
 
 [Ê-phê-sô 5:16]: https://twosparro.ws/bible/cadman/eph.5.16
 [2 Cô-rinh-tô 5:10]: https://twosparro.ws/bible/cadman/2co.5.10
