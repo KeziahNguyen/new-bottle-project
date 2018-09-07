@@ -1,4 +1,4 @@
-[Bài 1: Tính sổ thời gian](../README.md)
+[Bài 1: Tính sổ thời gian](README.md)
 
 # 1.1 Hiện trạng của `BC`
 
