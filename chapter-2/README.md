@@ -59,16 +59,24 @@ Tôi sẽ dùng [Google Keep] ([iOS] hoặc [Android]) để tạo 2 danh sách:
 |   `[ ]` Gọi ĐT cho mẹ      |
 |   `[ ]` Chọn 5 bài TP      |
 
-### 2.1.4 Thực hiện
+---
+
+### Thực hiện bài tập `#2.1`
+
+<img src="../icons/flying-bottle.svg" width="100">
 
 Tôi sẽ soạn **3** việc mỗi ngày để bạn sao chép và dán trong mục `3VHN` của bạn.
-Thực hiệc bài tập như sau:
+Mỗi tối bạn sẽ cắt và dán 3 việc tôi đề xướng vào phần `3VHN` rồi sáng hôm sau bạn cố gắng để thực hiện ba việc ấy.
 
-* Mỗi tối làm theo hướng dẫn như trong phần [2.1.1](../chapter-2/README.md#211-tối-hôm-trước)
-* Sao chép và dán 3 việc tôi chia xẻ vào `3VHN`
-* Nếu bạn đã còn việc chưa thực hiện xong, dời xuống mục `HL`
-* Sáng hôm sau làm theo hướng dẫn trong phần [2.1.2](../chapter-2/README.md#212-sáng-hôm-sau)
-* Nếu bạn đã hoàn tất 3 việc tôi đề xuất, bạn có thể thêm vào việc mới hoặc đem việc dưới mục `HL` lên
+| Mục | Thực hiện / trách nhiệm |
+| --- | --- |
+| Tạo danh sách | Bạn tạo danh sách tựa `Việc cần làm` rồi chia xẻ note với tôi |
+| 3 Việc | Tôi sẽ đưa lên **3 việc** mỗi ngày, bạn sẽ sao chép dưới `3VHN` trong note của bạn |
+| Tối hôm trước | Mỗi tối làm theo hướng dẫn như trong phần [2.1.1](README.md#211-tối-hôm-trước) |
+| Việc chưa xong | Dồn những việc chưa hoàn tất xuống phần `HL` |
+| Sáng hôm sau | Sáng hôm sau làm theo hướng dẫn trong phần [2.1.2](README.md#212-sáng-hôm-sau) |
+| Xong hết | Nếu đã xong hết 3 việc tôi trao bạn lấy việc ở phần `HL` lên để thực hiện |
+| <img src="../icons/icon-time.svg" width="40"/> | Bạn có `7` ngày để thực hiện và hoàn tất |
 
 ---
 
@@ -128,7 +136,7 @@ Những việc bạn hoãn lại nếu để lâu, nó sẽ chai và vô hiệu 
 * Đưa ra công việc làm
 * Thực hiện càng sớm càng tốt
 * Nếu không thể thực hiện được, dời xuống `HL`
-* Ngày hôm sau phải cố ý thực hiện xong `2VHN`
+* Ngày hôm sau phải cố ý thực hiện xong `3VHN`
 * Sau khi thực hiện xong chuyển việc `HL` lên trên và cố gắng thực hiện
 
 <img src="/chapter-2/c2-google-keep-action-list.png" width="400"/> <img src="/chapter-2/c2-google-keep-completed.png" width="400"/>
