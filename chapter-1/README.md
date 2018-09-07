@@ -45,7 +45,7 @@ Khi mở tập tin ra bạn thấy có 5 cột như sau:
 | `Thời gian/ngày`         | Thời gian dành cho việc này trong một ngày; dùng dạng `hh:mm` ví dụ, 3h 20 phút (3:20) |
 | `Số ngày thực hiện/tuần` | Số ngày trong tuần bạn làm công tác này                                                |
 | `Việc làm`               | Chi tiết việc làm là gì                                                                |
-| `Thể loại`               | Một trong 8 thể loại miêu tả ở phần trên (`1.1.2`)                                     |
+| `Thể loại`               | Một trong 8 thể loại miêu tả ở phần trên [1.1.2](README.md#112-tám-khía-cạnh-của-cuộc-sống) |                                    |
 | `Phút/tuần`              | (**Đừng đổi**) Số phút cho việc ngày trong một tuần sẽ tự động tính                    |
 
 ### 1.1.4 Mẫu thực hiện bài tập
