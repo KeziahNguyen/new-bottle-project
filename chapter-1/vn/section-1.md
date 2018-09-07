@@ -39,7 +39,7 @@ Khi mở tập tin ra bạn thấy có 5 cột như sau:
 
 ## 1.1.4 Mẫu thực hiện bài tập
 
-<img src="/chapter-1/c1-google-sheets-tutorial.gif"/>
+<img src="/chapter-1/vn/c1-google-sheets-tutorial.gif"/>
 
 ## 1.1.5 Những việc nên lưu ý
 
@@ -78,7 +78,7 @@ Ví dụ bạn ngủ mỗi ngày một giờ khác nhau, thay vì:
 | `10080` phút | Để ý tổng số phút phải gần `10080` phút mới đủ phút trong 1 tuần |
 | <img src="../../icons/icon-time.svg" width="40"/> | Bạn có `5` ngày để thực hiện và nộp bài |
 
-[c1-time-accounting-sheets.xlsx]: ../../../raw/master/chapter-1/c1-time-accounting-sheets.xlsx
+[c1-time-accounting-sheets.xlsx]: ../../../raw/master/chapter-1/vn/c1-time-accounting-sheets.xlsx
 [Microsoft Excel]: https://products.office.com/en-us/excel
 [Google Sheets]: https://www.google.com/sheets/about/
 [Android]: https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets
