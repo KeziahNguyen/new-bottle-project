@@ -11,9 +11,9 @@ Giá trị của cuộc đời sẽ được định đoạt bởi những [vi�
 
 ## Dàn bài
 
-### 1.1 [Hiện trạng của `BC`](vn/section-1.md)
+### 1.1 [Hiện trạng của `BC`](section-1.md)
 
-### 1.2 [Mục tiêu cho `BM`](vn/section-2.md)
+### 1.2 [Mục tiêu cho `BM`](section-2.md)
 
 [Ê-phê-sô 5:16]: https://twosparro.ws/bible/cadman/eph.5.16
 [2 Cô-rinh-tô 5:10]: https://twosparro.ws/bible/cadman/2co.5.10
