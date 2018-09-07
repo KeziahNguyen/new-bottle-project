@@ -16,7 +16,7 @@ So sánh với trang `Current` bạn tính cách sử dụng thời gian cho tư
 | Lấy bài tập | Tôi sẽ gửi lại bài của bạn với những thay đổi nếu có, bạn xóa bài cũ đi |
 | Xem lại | Xem lại bài tôi gửi nếu không hiểu bạn có thể hỏi tôi |
 | Làm `Goal` | Mở tab `Goal` ra và thực hiện như bài `#1.1` nhưng viết những ao ước |
-| <img src="icons/icon-time.svg" width="40"/> | Bạn có `3` ngày để thực hiện và nộp bài |
+| <img src="../../icons/icon-time.svg" width="40"/> | Bạn có `3` ngày để thực hiện và nộp bài |
 
 
-[c1-time-accounting-sheets.xlsx]: ../../raw/master/chapter-1/c1-time-accounting-sheets.xlsx
+[c1-time-accounting-sheets.xlsx]: ../../../../raw/master/chapter-1/vn/c1-time-accounting-sheets.xlsx
