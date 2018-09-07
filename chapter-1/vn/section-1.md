@@ -66,7 +66,7 @@ Ví dụ bạn ngủ mỗi ngày một giờ khác nhau, thay vì:
 
 ## Thực hiện bài tập `#1.1`
 
-<img src="icons/flying-bottle.svg" width="100">
+<img src="../../icons/flying-bottle.svg" width="100">
 
 | Mục | Thực hiện / trách nhiệm |
 | --- | --- |
@@ -74,7 +74,7 @@ Ví dụ bạn ngủ mỗi ngày một giờ khác nhau, thay vì:
 | 3 hàng đầu | Chỉnh 3 hàng đầu cho đúng theo thời gian của bạn (xem giải thích ở trên ) |
 | Tính hết giờ | Kế đến, bạn liệt kê hết các công việc trong tuần, càng chi tiết càng tốt |
 | `10080` phút | Để ý tổng số phút phải gần `10080` phút mới đủ phút trong 1 tuần |
-| <img src="icons/icon-time.svg" width="40"/> | Bạn có `5` ngày để thực hiện và nộp bài |
+| <img src="../../icons/icon-time.svg" width="40"/> | Bạn có `5` ngày để thực hiện và nộp bài |
 
 [c1-time-accounting-sheets.xlsx]: ../../../raw/master/chapter-1/c1-time-accounting-sheets.xlsx
 [Microsoft Excel]: https://products.office.com/en-us/excel
