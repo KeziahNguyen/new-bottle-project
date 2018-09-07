@@ -1,3 +1,5 @@
+[Bài 1: Tính sổ thời gian](../README.md)
+
 # 1.1 Hiện trạng của `BC`
 
 ## 1.1.1 Đo lường thời gian một tuần
