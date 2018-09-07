@@ -158,7 +158,7 @@ Sau khi bạn đã cập nhật đến hết ngày Chủ Nhật, bạn phục h�
 | Lấy bài tập | Copy bài tôi share trong Google Keep |
 | Giờ khởi đầu | Chỉnh lại giờ khởi đầu bằng cách đánh dấu nhưng giờ đã qua cho đến hiện tại |
 | Tìm giờ hiện tại | Nếu hiện tại là T4 @ 10:15, tìm mục `Wednesday`, đánh dấu hết cho đến `9:30` |
-| Năng lượng | Ghi xuống mức năng lượng theo phần `3.1.5`, ví dụ, bạn mới ăn xong mệt, ghi `4` cho mức năng lượng |
+| Năng lượng | Ghi xuống mức năng lượng theo phần [3.1.5](README.md#315-Đo-mức-năng-lượng), ví dụ, bạn mới ăn xong mệt, ghi `4` cho mức năng lượng |
 | Việc làm | Kế đến bạn sẽ ghi `Ăn sáng, xem tin tức` |
 | Đánh dấu | Sau khi ghi xong việc làm bạn đánh dấu để giờ `10:00` lên phía trên cùng |
 | Mỗi nửa tiếng | Lúc `10:30` bạn sẽ mở note ra và ghi **năng lượng** với **việc làm** cho nửa tiếng trước (`10:00`) |
