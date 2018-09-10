@@ -13,7 +13,21 @@ Giá trị của cuộc đời sẽ được định đoạt bởi những [vi�
 
 ### 1.1 [Hiện trạng của `BC`](section-1.md)
 
+* [Đo lường thời gian một tuần](section-1.md#111-%C4%90o-l%C6%B0%E1%BB%9Dng-th%E1%BB%9Di-gian-m%E1%BB%99t-tu%E1%BA%A7n)
+
+* [Tám khía cạnh của cuộc sống](section-1.md#112-t%C3%A1m-kh%C3%ADa-c%E1%BA%A1nh-c%E1%BB%A7a-cu%E1%BB%99c-s%E1%BB%91ng)
+
+* [Giải thích những bài tập](section-1.md#113-gi%E1%BA%A3i-th%C3%ADch-nh%E1%BB%AFng-b%C3%A0i-t%E1%BA%ADp)
+
+* [Mẫu thực hiện bài tập](section-1.md#114-m%E1%BA%ABu-th%E1%BB%B1c-hi%E1%BB%87n-b%C3%A0i-t%E1%BA%ADp)
+
+* [Những việc nên lưu ý](section-1.md#115-nh%E1%BB%AFng-vi%E1%BB%87c-n%C3%AAn-l%C6%B0u-%C3%BD)
+
+#### <img src="../../icons/flying-bottle.svg" width="20"/> [Bài tập 1.1](section-1.md#th%E1%BB%B1c-hi%E1%BB%87n-b%C3%A0i-t%E1%BA%ADp-11)
+
 ### 1.2 [Mục tiêu cho `BM`](section-2.md)
+
+#### <img src="../../icons/flying-bottle.svg" width="20"/> [Bài tập 1.2](section-2.md#th%E1%BB%B1c-hi%E1%BB%87n-b%C3%A0i-t%E1%BA%ADp-12)
 
 [Ê-phê-sô 5:16]: https://twosparro.ws/bible/cadman/eph.5.16
 [2 Cô-rinh-tô 5:10]: https://twosparro.ws/bible/cadman/2co.5.10
