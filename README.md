@@ -20,13 +20,13 @@ _`DABM` đang trong dạng thử nghiệm. Sẽ có nhiều thay đổi và cầ
 
 ## Giáo trình
 
-### Bài 1: [Tính sổ thời gian](chapter-1/README.md)
+### Bài 1: [Tính sổ thời gian](chapter-1/vn/README.md)
 
 #### 1.1 Hiện trạng của `BC`
 
 #### 1.2 Mục tiêu cho `BM`
 
-### Bài 2: [Ba việc cần làm](chapter-2/README.md)
+### Bài 2: [Ba việc cần làm](chapter-2/vn/README.md)
 
 #### 2.1 Ba việc hôm nay
 
@@ -36,7 +36,7 @@ _`DABM` đang trong dạng thử nghiệm. Sẽ có nhiều thay đổi và cầ
 
 #### 2.4 Mùi vị của sự thành công
 
-### Bài 3: [Ách của sự lười biếng](chapter-3/README.md)
+### Bài 3: [Ách của sự lười biếng](chapter-3/vn/README.md)
 
 #### 3.1 Theo dõi việc làm và thời gian
 
