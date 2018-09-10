@@ -54,7 +54,7 @@ Mỗi tối bạn sẽ cắt và dán 3 việc tôi đề xướng vào phần `
 | Việc chưa xong | Dồn những việc chưa hoàn tất xuống phần `HL` |
 | Sáng hôm sau | Sáng hôm sau làm theo hướng dẫn trong phần [2.1.2] |
 | Xong hết | Nếu đã xong hết 3 việc tôi trao bạn lấy việc ở phần `HL` lên để thực hiện |
-| <img src="../icons/icon-time.svg" width="40"/> | Bạn có `7` ngày để thực hiện và hoàn tất |
+| <img src="../../icons/icon-time.svg" width="40"/> | Bạn có `7` ngày để thực hiện và hoàn tất |
 
 
 [Google Keep]: https://keep.google.com
