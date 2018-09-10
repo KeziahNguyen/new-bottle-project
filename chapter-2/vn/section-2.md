@@ -1,13 +1,13 @@
 [Bài 2: Ba việc cần làm](README.md)
 
-## 2.2 Cách hoạt động của bộ nhớ
+# 2.2 Cách hoạt động của bộ nhớ
 
-### 2.2.1 Mạng lưới tế bào thần kinh
+## 2.2.1 Mạng lưới tế bào thần kinh
 
 Bộ óc của chúng ta là mạng lưới của những tế bào thần kinh ([Nơ-ron]).
 Nếu bộ óc là bộ nhớ của máy vi tính thì chúng ta có thể chứa được **2.5 Petabytes**, hoặc 300 triệu giờ YouTube HD (nếu ngồi xem hết 24h một ngày thì khoảng **300 năm** mới hết phim).
 
-### 2.2.2 Nâng cấp khả năng thông tin
+## 2.2.2 Nâng cấp khả năng thông tin
 
 Dù có khả năng rất lớn nhưng những nơ-ron này cần phải _nối kết với nhau_ qua những [sợi trục] để gửi thông tin trong dạng xung điện (_electrochemical_) tạo thành nền tảng cho trí nhớ.
 
@@ -16,7 +16,7 @@ Khi những **sợi trục được nối kết nhiều lần** giữa hai nơ-r
 Khi bạn dọn đến ở nhà mới, ban đầu môi trường lạ và không quen thuộc, bạn chạy xe đi làm mỗi ngày nó quen thuộc hơn hôm trước.
 Sau một thời gian, bạn không cần suy nghĩ, tay chân tự hoạt động đưa bạn đến và về không cần bạn phải suy nghĩ.
 
-### 2.2.3 Thực tập trở nên tự động
+## 2.2.3 Thực tập trở nên tự động
 
 Chăm chú và cẩn thận làm việc, tốt hơn làm nhanh và qua loa.
 Khi làm chuẩn một công việc nhiều lần thì kết nối giữa những nơ-ron sẽ được nâng cấp khiến cho công việc ấy trở nên [tính tự động][automaticity].
@@ -25,7 +25,9 @@ Trung bình bộ óc có khả năng suy tính khoảng 40 thông tin một giâ
 
 Mỗi ngày tập thực hiện `3VHN` cho hoàn hảo thì bạn kết nối mạng lưới nơ-ron để khi bạn viết việc gì trong danh mục ấy, thì bộ óc sẽ thực hiện cách tự động.
 
-## Thực hiện bài tập `#2.2`
+----
+
+# Thực hiện bài tập `#2.2`
 
 <img src="../../icons/flying-bottle.svg" width="100">
 
