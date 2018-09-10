@@ -46,11 +46,24 @@ Tâm trí của con người thèm trật tự nên khi chọn 3 việc làm nê
 | Chở vợ đi làm  | Thức sớm hơn vợ 1h (5a)  | Vui vẻ, chìu vợ lúc chở đi   | Đổ đầy xăng cho xe vợ tối nay   |
 
 
-## 2.4.5 Mẫu: Làm mắt kiếng mới
+## 2.4.5 Mẫu: Làm mắt kính mới
 
-Khi muốn soạn công việc để thực hiện, ví dụ bạn cần làm đôi mắt kiếng mới, điều đầu tiên bạn cần làm là đưa ra những câu hỏi cho đến khi không hỏi được nữa.
+Khi muốn soạn công việc để thực hiện, ví dụ bạn cần làm đôi mắt kính mới, điều đầu tiên bạn cần làm là đưa ra những câu hỏi cho đến khi không hỏi được nữa.
 
 ![Hỏi cho hết](c2-graph-eyeglasses.png)
+
+Sau khi đã vẽ sơ đồ (trong trí) bạn có một _dự án_ cho việc đi làm mắt kiếng như sau:
+
+| Việc cần làm                 |
+| ---------------------------- |
+| `[ ]` **3 việc hôm nay**     |
+|   `[ ]` Tìm VP khám mắt      |
+| `[ ]` **Hoãn lại**           |
+| `[ ]` _Làm mắt kính_         |
+|   `[ ]` Gọi lấy hẹn khám mắt |
+|   `[ ]` Đi khám mắt          |
+|   `[ ]` Lấy hẹn làm mắt kính |
+|   `[ ]` Đi làm mắt kính      |
 
 ----
 
@@ -60,5 +73,13 @@ Khi muốn soạn công việc để thực hiện, ví dụ bạn cần làm đ
 
 | Mục | Thực hiện / trách nhiệm |
 | --- | --- |
-| Hỏi | Làm bài tập theo mẫu `2.4.5`. Công việc: _Đi thay lốp xe_ |
+| Đọc | Đọc và nghiên cứu phần [2.4.5] |
+| Làm | Làm một dự án __Thay lốp xe__ theo mẫu [2.4.5] |
 | <img src="../../icons/icon-time.svg" width="40"/> | Bạn có `1` ngày để thực hiện và hoàn tất |
+
+[1 Cô-rinh-tô 15:57]: https://twosparro.ws/bible/cadman.1co.15.57
+[dopamine]: https://vi.wikipedia.org/wiki/Dopamine
+[cortisol]: https://vi.wikipedia.org/wiki/Cortisol
+[serotonin]: https://vi.wikipedia.org/wiki/Serotonin
+
+[2.4.5]: section-4.md#245-m%E1%BA%ABu-l%C3%A0m-m%E1%BA%AFt-ki%E1%BA%BFng-m%E1%BB%9Bi
