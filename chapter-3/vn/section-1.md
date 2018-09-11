@@ -67,7 +67,7 @@ Kèm theo việc là bạn sẽ ghi xuống **mức năng lượng** của bạn
 |   `[ ]` 6:30 -                         |
 |   `[ ]` ...                            |
 
-<img src="/chapter-3/c3-google-keep-time-track.png" width="400"/> <img src="/chapter-3/c3-google-keep-time-track-day-span.png" width="400"/>
+<img src="/chapter-3/c3-google-keep-tracker.gif"/>
 
 ## 3.1.5 Đo mức năng lượng
 
