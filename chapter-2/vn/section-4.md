@@ -52,7 +52,9 @@ Khi muốn soạn công việc để thực hiện, ví dụ bạn cần làm đ
 
 ![Hỏi cho hết](c2-graph-eyeglasses.png)
 
-Sau khi đã vẽ sơ đồ (trong trí) bạn có một _dự án_ cho việc đi làm mắt kiếng như sau:
+Khi sơ lược một công việc, mình nên suy nghĩ những chi tiết liên quan đến công việc.
+Khả năng đào sâu vào công tác để phân ra từng phần nhỏ để làm rất quan trọng cho sự thành công của bạn.
+Việc đi làm mắt kính mới theo sơ đồ được chia ra làm 5 giai đoạn dễ để thực hiện:
 
 | Việc cần làm                 |
 | ---------------------------- |
@@ -65,11 +67,18 @@ Sau khi đã vẽ sơ đồ (trong trí) bạn có một _dự án_ cho việc �
 |   `[ ]` Lấy hẹn làm mắt kính |
 |   `[ ]` Đi làm mắt kính      |
 
+Bạn tổng hợp những việc phụ dươi đề mục riêng cho dự án.
+Sau khi hoàn tất từng phần nhỏ, bạn đưa phần kế trong dự án lên để làm tiếp.
+
 ----
 
 # Thực hiện bài tập `#2.4`
 
 <img src="../../icons/flying-bottle.svg" width="100">
+
+Bài tập này giúp cho bạn suy nghĩ cách nào để phân công việc ra từng phần nhỏ để làm.
+Ví dụ bạn cần thay lốp xe, ban sẽ phân công tác này ra thành bao nhiêu phần?
+Thiết kế một dự án cho việc __Thay lốp xe__ trong Google Keep.
 
 | Mục | Thực hiện / trách nhiệm |
 | --- | --- |
