@@ -23,7 +23,7 @@ Nếu bạn bất tín thì bộ óc sẽ **coi thường** và cho rằng bạn
 
 ## 2.3.4 Mẫu bài tập
 
-<img src="/chapter-2/c2-google-keep-action-list.png" width="400"/> <img src="/chapter-2/c2-google-keep-completed.png" width="400"/>
+<img src="/chapter-2/c2-google-keep-3tft-tutorial.gif" width="400"/> <img src="/chapter-2/c2-google-keep-3tft-move.gif" width="400"/>
 
 ----
 
