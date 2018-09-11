@@ -37,7 +37,9 @@ Tôi sẽ dùng [Google Keep] ([iOS] hoặc [Android]) để tạo 2 danh sách:
 |   `[ ]` Gọi ĐT cho mẹ      |
 |   `[ ]` Chọn 5 bài TP      |
 
-![Mẫu](/chapter-2/c2-google-keep-3tft-tutorial.gif)
+## 2.1.4 Mẫu bài tập
+
+<img src="/chapter-2/c2-google-keep-3tft-tutorial.gif" width="400"/> <img src="/chapter-2/c2-google-keep-3tft-share.gif" width="400"/>
 
 ---
 
