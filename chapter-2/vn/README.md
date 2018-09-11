@@ -79,7 +79,7 @@ Bạn phải **có kế hoạch** để thực hiện những việc thiết th�
 [2.1.1]: section-1.md#211-t%E1%BB%91i-h%C3%B4m-tr%C6%B0%E1%BB%9Bc
 [2.1.2]: section-1.md#212-s%C3%A1ng-h%C3%B4m-sau
 [2.1.3]: section-1.md#213-c%C3%B4ng-c%E1%BB%A5-c%E1%BA%A7n-google-keep
-[2.3.4]: section-1.md#214-m%E1%BA%ABu-b%C3%A0i-t%E1%BA%ADp
+[2.1.4]: section-1.md#214-m%E1%BA%ABu-b%C3%A0i-t%E1%BA%ADp
 [2.1 Ex]: section-1.md#th%E1%BB%B1c-hi%E1%BB%87n-b%C3%A0i-t%E1%BA%ADp-21
 [2.2.1]: section-2.md#221-m%E1%BA%A1ng-l%C6%B0%E1%BB%9Bi-t%E1%BA%BF-b%C3%A0o-th%E1%BA%A7n-kinh
 [2.2.2]: section-2.md#222-n%C3%A2ng-c%E1%BA%A5p-kh%E1%BA%A3-n%C4%83ng-th%C3%B4ng-tin
