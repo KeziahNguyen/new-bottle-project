@@ -1,3 +1,5 @@
+[Bài 3: Ách của sự lười biếng](README.md)
+
 # 3.1 Theo dõi việc làm và thời gian
 
 ## 3.1.1 Mất tập trung, mất thời gian
