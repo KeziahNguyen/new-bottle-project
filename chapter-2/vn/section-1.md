@@ -52,7 +52,8 @@ Mỗi tối bạn sẽ cắt và dán 3 việc tôi đề xướng vào phần `
 
 | Mục | Thực hiện / trách nhiệm |
 | --- | --- |
-| Tạo danh sách | Bạn tạo danh sách tựa `Việc cần làm` rồi chia xẻ note với tôi |
+| Tạo danh sách | Bạn tạo danh sách tựa `Việc cần làm` |
+| Chia xẻ | Chia xẻ danh sách ấy với _email sẽ gửi riêng_ |
 | 3 Việc | Tôi sẽ đưa lên **3 việc** mỗi ngày, bạn sẽ sao chép dưới `3VHN` trong note của bạn |
 | Tối hôm trước | Mỗi tối làm theo hướng dẫn như trong phần [2.1.1] |
 | Việc chưa xong | Dồn những việc chưa hoàn tất xuống phần `HL` |
