@@ -1,5 +1,9 @@
 
+[Bài 3: Ách của sự lười biếng](README.md)
+
 # 3.2 Vượt qua sự trì hoãn
+
+Không ai muốn làm việc mình không _thích_, nguồn gốc của tính chần chừ không phải là _công việc_ nhưng _tâm lý_. 
 
 ## 3.2.1 Đóng khuôn thời gian để tâm trí dễ xử lý
 
