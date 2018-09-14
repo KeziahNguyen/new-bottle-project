@@ -66,11 +66,15 @@ Ngay cả khi Pha-lô ở trong tù, ông cũng không ngừng làm việc.
 
 ## 3.2 [Vượt qua sự trì hoãn](section-2.md)
 
-* 3.2.1 [Đóng khuôn thời gian để tâm trí dễ xử lý]
+* 3.2.1 [Cắt đầu Gô-li-át][3.2.1]
 
-* 3.2.2 [Tập chạy theo giây để không bị trễ]
+* 3.2.2 [Giảm độ phức tạp][3.2.2]
 
-* 3.3.3 [Ngừng lại trước khi xong việc]
+* 3.2.3 [Đóng khuôn thời gian để tâm trí dễ xử lý]
+
+* 3.2.4 [Tập chạy theo giây để không bị trễ]
+
+* 3.3.5 [Ngừng lại trước khi xong việc]
 
 ---
 
@@ -93,3 +97,6 @@ Ngay cả khi Pha-lô ở trong tù, ông cũng không ngừng làm việc.
 [3.1.6]: section-1.md#315-ch%E1%BB%8Dn-gi%E1%BB%9D-kh%E1%BB%9Fi-%C4%91%E1%BA%A7u
 [3.1.7]: section-1.md#316-tr%E1%BB%9F-l%E1%BA%A1i-nh%E1%BB%AFng-ng%C3%A0y-%C4%91%E1%BA%A7u-tu%E1%BA%A7n
 [3.1 Ex]: section-1.md#th%E1%BB%B1c-hi%E1%BB%87n-b%C3%A0i-t%E1%BA%ADp-31
+
+[3.2.1]: section-2.md#321-c%E1%BA%AFt-%C4%91%E1%BA%A7u-g%C3%B4-li-%C3%A1t
+[3.2.2]: section-2.md#322-gi%E1%BA%A3m-%C4%91%E1%BB%99-ph%E1%BB%A9c-t%E1%BA%A1p
