@@ -54,25 +54,25 @@ Bạn quyết định sẽ dọn chỗ ở của mình cho thật sạch.
 Bước đầu tiên là chia dự án này ra thành những _công việc đơn lẻ_:
 
 | Bước | Công việc đơn lẻ |
-| :--: | ---------------- |
-| | Lượm rác bỏ vào thùng |
-| | Ước chừng cần bao nhiêu thùng |
-| | Đi mua/xin thùng |
-| | Dọn chỗ cho mấy cái thùng |
-| | Dọn riêng những đồ không phải của mình |
-| | Tìm chủ nhân của những đồ lớn không bỏ vào thùng được |
-| | Bỏ hết sách vào thùng |
-| | Bỏ những đồ chơi vào thùng |
-| | Dọn riêng những đồ mình sẽ cho đi |
-| | Bỏ những đồ còn lại trên những kệ vào thùng |
-| | Bỏ những vật trang trí vào thùng |
-| | Bỏ những quần không mặc vào thùng |
-| | Bỏ những áo không mặc vào thùng |
-| | Quăng những đồ bị bể, rách, gẫy đi |
-| | Tìm chỗ cho những cái thùng đầy đồ |
-| | Bán/cho những đồ trong thùng "không muốn nữa" |
-| | Bỏ đi 1/3 thùng đồ |
+| --: | ---------------- |
+| 1 | Lượm rác bỏ vào thùng |
+| 2 | Tìm chủ nhân của những đồ lớn không bỏ vào thùng được |
+| 3 | Ước chừng cần bao nhiêu thùng |
+| 4 | Đi mua/xin thùng |
+| 5 | Dọn chỗ cho mấy cái thùng |
+| 6 | Dọn riêng những đồ không phải của mình |
+| 7 | Dọn riêng những đồ mình sẽ cho đi |
+| 8 | Quăng những đồ bị bể, rách, gẫy đi |
+| 9 | Bán/cho những đồ trong thùng "không muốn nữa" |
+| 10 | Bỏ hết sách vào thùng |
+| 11 | Bỏ những đồ chơi vào thùng |
+| 12 | Bỏ những đồ còn lại trên những kệ vào thùng |
+| 13 | Bỏ những vật trang trí vào thùng |
+| 14 | Bỏ những áo không mặc vào thùng |
+| 15 | Bỏ những quần không mặc vào thùng |
+| 16 | Tìm chỗ cho những cái thùng đầy đồ |
+| 17 | Bỏ đi 1/3 thùng đồ |
 
 Sau khi bạn đã chia dự án ra thành những công việc đơn lẻ, công việc kế tiếp là bỏ vào trong mục `Bước` thứ tự của việc làm. 
 
-#### <img src="/icons/flying-bottle.svg" width="50"> Bạn thử sắp đặt thứ tự của bài trên cách xứng hợp nhất.
+#### <img src="/icons/flying-bottle.svg" width="50"> Bạn có thể thêm được bao nhiêu công việc đơn lẻ nữa trong danh sách này?
