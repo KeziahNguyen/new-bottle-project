@@ -74,7 +74,7 @@ Bạn phải **có kế hoạch** để thực hiện những việc thiết th�
 [Lu-ca 10:40]: https://twosparro.ws/bible/cadman.lu.10.40
 [Lu-ca 10:42]: https://twosparro.ws/bible/cadman.lu.10.42
 [Lu-ca 14:30]: https://twosparro.ws/bible/cadman.lu.14.30
-[Cô-lô-se 4:2]: https://twosparro.ws/bible/cadman.col.4.2
+
 
 [2.1.1]: section-1.md#211-t%E1%BB%91i-h%C3%B4m-tr%C6%B0%E1%BB%9Bc
 [2.1.2]: section-1.md#212-s%C3%A1ng-h%C3%B4m-sau
