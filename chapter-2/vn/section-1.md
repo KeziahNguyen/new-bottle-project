@@ -61,7 +61,7 @@ Mỗi tối bạn sẽ cắt và dán 3 việc tôi đề xướng vào phần `
 | Xong hết | Nếu đã xong hết 3 việc tôi trao bạn lấy việc ở phần `HL` lên để thực hiện |
 | <img src="../../icons/icon-time.svg" width="40"/> | Bạn có `7` ngày để thực hiện và hoàn tất |
 
-
+[Cô-lô-se 4:2]: https://twosparro.ws/bible/cadman.col.4.2
 [Google Keep]: https://keep.google.com
 [Android]: https://play.google.com/store/apps/details?id=com.google.android.keep
 [iOS]: https://itunes.apple.com/app/id1029207872
