@@ -44,7 +44,7 @@ Khi bạn đề xướng công việc để làm cho ngày (như những việc 
 Bạn phải học cách phân chia _dự án_ ra từng công việc _đơn lẻ_ thì mới có thể thực hiện được công việc.
 Không ai có khả năng làm một _dự án_ một lúc nhưng ai cúng có thể làm việc đơn lẻ cách dễ dàng.
 
-Dùng óc để tính trước những bước cần thiết để thực hiện một dự án sẽ đem lại kết quả tốt.
+Dùng não để tính trước những bước cần thiết để thực hiện một dự án sẽ đem lại kết quả tốt.
 Nếu bạn có tính _tới đâu hay tới đó_ bạn sẽ không xử lý được những công trình phức tạp vì đòi hỏi có chiến thuật.
 
 ### Dự án: "Dọn và giảm bớt sở hữu trong phòng"
@@ -76,3 +76,57 @@ Bước đầu tiên là chia dự án này ra thành những _công việc đơ
 Sau khi bạn đã chia dự án ra thành những công việc đơn lẻ, công việc kế tiếp là bỏ vào trong mục `Bước` thứ tự của việc làm. 
 
 #### <img src="/icons/flying-bottle.svg" width="50"> Bạn có thể thêm được bao nhiêu công việc đơn lẻ nữa trong danh sách này?
+
+## 3.2.3 Đóng khuôn thời gian lại
+
+Tâm trí con người chuộng những việc làm có thể thấy kết thúc được.
+Khi bạn mở YouTube, phim cho mình biết nó dài mấy phút.
+Bạn làm quyết định xem hoặc không xem dễ vì biết ước chừng thời gian mặc dù mình sẽ không tiếc thời gian xem hết phim này qua phim khác.
+Con người sợ những gì nó không biết nên bọ óc của nó sẽ tìm những công việc nó có thể kiểm soát được thời giờ.
+Mặc dù tâm trí thì muốn lắm, nhưng xác thịt thì lười; với tiện nghi của điện thoại di động, bây giờ mình không cần đi tìm giải trí, nó cứ báo trên màn hình chỉ cần bấm là nó lấy hết thời gian.
+
+Xem phim hoặc làm công việc hữu ích đối với tâm trí không khác nhau nếu công việc cũng có **khuôn thời gian**.
+Trong phần này, bạn sẽ học cách nào để thi hành những công việc trong khuôn của thời gian để mình chiến thắng tánh lười biếng và 
+thực hiện những công việc trong danh sách làm việc của bạn.
+
+Bài trên bạn học cách thức chia dự án thành từng _công việc đơn lẻ_, bài này sẽ hướng dẫn bạn chia thời gian ra để thực hiện từng phần.
+Những thành công trở nên năng lực cho tâm trí, khi bạn hoàn tất công việc, tâm trí sẽ [nếm được mùi vị thắng][Lesson 2.4].
+Khi làm việc, bạn có lúc sẽ hoàn tất được công việc nhưng thường là nó đòi hỏi nhiều thời gian hơn mình có.
+Vậy, thay vì mình đạt mục tiêu là làm cho xong việc, bạn đổi sự thành công từ việc làm qua thời gian.
+
+Ví dụ nếu bạn phải thực hiện: _chạy bộ 5km_; công việc này đòi hỏi bạn phải cho ít nhất 15 phút (nếu bạn chạy 1km/3 phút), nhưng nếu bạn chạy được 7 phút 1km thì cần phải có ít nhất là 35 phút.
+Thực tế, nếu bạn muốn chạy 5km thì bạn cần phải có từ **1h - 1:30h**, khoảng thời gian ít có ai muốn dấn thân.
+Ngược lại, nếu tôi ra điều kiện là bạn chạy thật nhanh đúng 7 phút và nghỉ 3 phút; rồi lập lại vài lần nữa thì bạn sẽ thấy dễ nuốt hơn.
+
+Công thức này có thể áp dụng cho tất cả công việc bạn cần làm.
+Có một số phương pháp chia thời gian ra để tập trung làm việc, nhưng cách tốt nhất vẫn là [Pomodoro Technique].
+Công thức rất dơn giản:
+
+| Phút | Việc |
+| :--: | ---- |
+| 25 | Tập trung làm việc, không được làm gì khác ngoài công việc |
+| 5  | Nghỉ ngắn, muốn làm gì thì làm |
+| 25 | Tập trung làm việc |
+| 5  | Nghỉ ngắn |
+| 25 | Tập trung |
+| 5  | Nghỉ ngắn |
+| 25 | Tập trung |
+| 15 | Nghỉ dài |
+
+Mỗi 2h 10 phút là một múi giờ Pomodoro; bạn thực hiện 2 Pomodoro trong ngày làm việc rồi đi ăn sau đó làm thêm 2 Pomodoro.
+
+### Tải App xuống để thử
+
+| Platform | App |
+| ---- | ---- |
+| Apple iOS | [Focus Keeper Free] |
+| Google Android | [Pomodoro Timer Lite] |
+| Browser / Desktop | [Pomidorus JS] |
+
+#### <img src="/icons/flying-bottle.svg" width="50"> Tải app và thử nghiệm với cách làm việc theo Pomodoro
+
+[Focus Keeper Free]: https://itunes.apple.com/us/app/pomodoro-keeper-free-timer/id867374917?mt=8
+[Pomodoro Timer Lite]: https://play.google.com/store/apps/details?id=com.tatkovlab.pomodorolite
+[Pomidorus JS]: https://pomidorus.js.org/
+[Lesson 2.4]: /chapter-2/vn/section-4.md
+[Pomodoro Technique]: https://vi.wikipedia.org/wiki/Pomodoro
