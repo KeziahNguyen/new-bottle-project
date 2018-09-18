@@ -100,7 +100,7 @@ Ngược lại, nếu tôi ra điều kiện là bạn chạy thật nhanh đún
 
 Công thức này có thể áp dụng cho tất cả công việc bạn cần làm.
 Có một số phương pháp chia thời gian ra để tập trung làm việc, nhưng cách tốt nhất vẫn là [Pomodoro Technique].
-Công thức rất dơn giản:
+Công thức rất đơn giản:
 
 | Phút | Việc |
 | :--: | ---- |
@@ -113,7 +113,7 @@ Công thức rất dơn giản:
 | 25 | Tập trung |
 | 15 | Nghỉ dài |
 
-Mỗi 2h 10 phút là một múi giờ Pomodoro; bạn thực hiện 2 Pomodoro trong ngày làm việc rồi đi ăn sau đó làm thêm 2 Pomodoro.
+Mỗi 2h 10 phút là một Pomodoro; bạn thực hiện 2 Pomodoro trong ngày làm việc rồi đi ăn sau đó làm thêm 2 Pomodoro.
 
 ### Tải App xuống để thử
 
