@@ -40,6 +40,8 @@ _`DABM` đang trong dạng thử nghiệm. Sẽ có nhiều thay đổi và cầ
 
 #### 3.1 Theo dõi việc làm và thời gian
 
+#### 3.2 Vượt qua sự trì hoãn
+
 ### Bài 4: Soạn óc
 
 #### Khay nháp
@@ -48,25 +50,21 @@ _`DABM` đang trong dạng thử nghiệm. Sẽ có nhiều thay đổi và cầ
 
 #### Soạn thảo
 
-### Bài 5: Soạn năng lượng
+### Bài 5: Sơ đồ quyết định
 
-### Bài 6: Sơ đồ quyết định
-
-### Bài 7: Rút gọn
+### Bài 6: Rút gọn
 
 #### Của cải
 
 #### Việc làm
 
-### Bài 8: Chỉnh sửa mặc định
+### Bài 7: Chỉnh sửa mặc định
 
-### Bài 9: Sức mạnh của sự tập trung
+### Bài 8: Bỏ gì vào bình?
 
-### Bài 10: Bỏ gì vào bình?
+### Bài 9: Nước, mỡ và cơ bắp
 
-### Bài 11: Nước, mỡ và cơ bắp
-
-### Bài 12: Ngỉ
+### Bài X: Ngỉ
 
 [1 Cô-rinh-tô 9:27]: https://twosparro.ws/bible/cadman.1co.9.27
 [Rô-ma 6:13]: https://twosparro.ws/bible/cadman.ro.6.13
