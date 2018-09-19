@@ -64,7 +64,7 @@ _`DABM` đang trong dạng thử nghiệm. Sẽ có nhiều thay đổi và cầ
 
 ### Bài 9: Nước, mỡ và cơ bắp
 
-### Bài X: Ngỉ
+### Bài X: Nghỉ
 
 [1 Cô-rinh-tô 9:27]: https://twosparro.ws/bible/cadman.1co.9.27
 [Rô-ma 6:13]: https://twosparro.ws/bible/cadman.ro.6.13
