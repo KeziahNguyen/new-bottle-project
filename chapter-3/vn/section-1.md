@@ -118,7 +118,14 @@ Sau khi bạn đã cập nhật đến hết ngày Chủ Nhật, bạn phục h�
 | Mỗi nửa tiếng | Lúc `10:30` bạn sẽ mở note ra và ghi **năng lượng** với **việc làm** cho nửa tiếng trước (`10:00`) |
 | <img src="../../icons/icon-time.svg" width="40"/> | Bạn có `8` ngày để thực hiện và hoàn tất |
 
+### Tìm giờ cao điểm
+
+Sau khi đã hoàn tất 1 tuần lễ trong Google Keep, bạn chuyển tài liệu qua [c3-time-energy-tracker-sheets.xlsx] để kiểm tra lại thời điểm trong ngày bạn có nhiều năng lượng nhất.
+Dùng thời gian đó để làm công việc quan trọng nhất.
+Kiểm tra lại trong tab `Activities` với [Bài 1.1][Lesson 1.1].
 
 [Ê-phê-sô 5:16]: https://twosparro.ws/bible/cadman.eph.5.16
 [Cô-lô-se 3:17]: https://twosparro.ws/bible/cadman.col.3.17
 [Truyền-đạo 9:10]: https://twosparro.ws/bible/cadman.ec.9.10
+[c3-time-energy-tracker-sheets.xlsx]: ../../../../raw/master/chapter-3/vn/c3-time-energy-tracker-sheets.xlsx
+[Lesson 1.1]: /chapter-1/vn/section-1.md
