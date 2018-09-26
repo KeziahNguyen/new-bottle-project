@@ -72,7 +72,7 @@ Ngay cả khi Pha-lô ở trong tù, ông cũng không ngừng làm việc.
 
 * 3.2.3 [Đóng khuôn thời gian][3.2.3]
 
-* 3.2.4 [Tập chạy theo giây để không bị trễ]
+* 3.2.4 [Tập chạy theo giây để không bị trễ][3.2.4]
 
 * 3.3.5 [Ngừng lại trước khi xong việc]
 
@@ -101,3 +101,4 @@ Ngay cả khi Pha-lô ở trong tù, ông cũng không ngừng làm việc.
 [3.2.1]: section-2.md#321-c%E1%BA%AFt-%C4%91%E1%BA%A7u-g%C3%B4-li-%C3%A1t
 [3.2.2]: section-2.md#322-gi%E1%BA%A3m-%C4%91%E1%BB%99-ph%E1%BB%A9c-t%E1%BA%A1p
 [3.2.3]: section-2.md#323-%C4%90%C3%B3ng-khu%C3%B4n-th%E1%BB%9Di-gian-l%E1%BA%A1i
+[3.2.4]: section-2.md#324-t%E1%BA%ADp-ch%E1%BA%A1y-theo-gi%C3%A2y-%C4%91%E1%BB%83-kh%C3%B4ng-b%E1%BB%8B-tr%E1%BB%85
