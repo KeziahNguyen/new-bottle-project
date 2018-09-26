@@ -125,6 +125,40 @@ Mỗi 2h 10 phút là một Pomodoro; bạn thực hiện 2 Pomodoro trong ngày
 
 #### <img src="/icons/flying-bottle.svg" width="50"> Tải app và thử nghiệm với cách làm việc theo Pomodoro
 
+## 3.2.4 Tập chạy theo giây để không bị trễ
+
+Thời gian không dừng lại mặc dù chúng ta mệt.
+Khi có ai hỏi mấy giờ và đồng hồ là `12:23` thường mình sẽ trả lời là **mười hai giờ rưỡi**;
+Nhưng thực tế còn đến 7 phút nữa mới đúng `12:30`.
+Vì cho 7 phút quá ngắn, nhiều người tốn thời gian vì mình không coi trọng thời gian.
+Không ai sống (hoặc muốn) sống 2 phút trong 60 giây nhưng nếu mình có thói quen không quan trọng hóa từng giây, nó sẽ thoát ra khỏi thời gian của bạn.
+
+Tập để ý từng giây, đừng coi thường nó vì nó ngắn hơn phút và giờ vì khi một giây đã qua, banj cũng không lấy lại được.
+Những buổi nhóm trễ là vì người hướng dẫn không coi trọng từng giây.
+Khi nhìn đồng hồ và nó đã chạy qua 2 phút nhưng vẫn nghĩ là đúng giờ, bạn đã đánh mất đi 2 phút.
+Trong khoảng thời gian 2 phút đó bạn đã cầu nguyện được một lần hoặc đọc được một đoạn Kinh Thánh.
+
+### Ước chừng công việc khoảng 2 phút
+
+Bài tập này sẽ giúp cho bạn hoàn tất nhiều công việc _nhỏ_ trong vòng 2 phút.
+Không phải mọi việc đều được vinh dự để vào trong danh sách làm việc của bạn.
+Việc nào bạn có thể thực hiện trong vòng 2 phút, nên làm liền đừng bỏ vào lịch làm việc.
+
+Vài công việc có thể làm dưới 2 phút
+
+* Trả lời 10+ tin nhắn và email
+* Dọn ngăn nắp bàn mình
+* Gấp quần áo
+* Nhảy dây 100+ lần
+* Học một từ mới
+* Xóa 20+ cái app trong ĐT
+* Lau xe
+* Đánh răng
+* Đọc Kinh Thánh
+* Học Anh văn
+
+#### <img src="/icons/flying-bottle.svg" width="50"> Lập danh sách những công việc nhỏ có thể thực hiện trong 2 phút. Bạn bỏ ra 10 phút để thực hiện xong 5 việc đó.
+
 [Focus Keeper Free]: https://itunes.apple.com/us/app/pomodoro-keeper-free-timer/id867374917?mt=8
 [Pomodoro Timer Lite]: https://play.google.com/store/apps/details?id=com.tatkovlab.pomodorolite
 [Pomidorus JS]: https://pomidorus.js.org/
