@@ -130,21 +130,22 @@ Mỗi 2h 10 phút là một Pomodoro; bạn thực hiện 2 Pomodoro trong ngày
 Thời gian không dừng lại mặc dù chúng ta mệt.
 Khi có ai hỏi mấy giờ và đồng hồ là `12:23` thường mình sẽ trả lời là **mười hai giờ rưỡi**;
 Nhưng thực tế còn đến 7 phút nữa mới đúng `12:30`.
-Vì cho 7 phút quá ngắn, nhiều người tốn thời gian vì mình không coi trọng thời gian.
-Không ai sống (hoặc muốn) sống 2 phút trong 60 giây nhưng nếu mình có thói quen không quan trọng hóa từng giây, nó sẽ thoát ra khỏi thời gian của bạn.
+Vì cho 7 phút quá ngắn, nhiều người tốn thời gian vì không coi trọng thời gian.
+Không ai muốn sống 2 phút trong 60 giây nhưng nếu có thói quen không xem từng giây là quan trọng, nó sẽ thoát ra khỏi ngày của bạn.
 
-Tập để ý từng giây, đừng coi thường nó vì nó ngắn hơn phút và giờ vì khi một giây đã qua, banj cũng không lấy lại được.
+Tập để ý từng giây, đừng coi thường vì nó ngắn hơn phút và giờ; khi một giây đã qua, bạn cũng không lấy lại được.
 Những buổi nhóm trễ là vì người hướng dẫn không coi trọng từng giây.
-Khi nhìn đồng hồ và nó đã chạy qua 2 phút nhưng vẫn nghĩ là đúng giờ, bạn đã đánh mất đi 2 phút.
+Khi đồng hồ đã chạy qua 2 phút nhưng mình vẫn cho là đúng giờ, bạn đã làm mất đi 2 phút của khoảng 30 người tổng cộng là 1 tiếng đồng hồ của Hội Thánh đã qua.
 Trong khoảng thời gian 2 phút đó bạn đã cầu nguyện được một lần hoặc đọc được một đoạn Kinh Thánh.
+Nếu mỗi người đểu tôn vinh Chúa thì đã dâng lên cho Chúa 1 giờ thờ phượng.
 
 ### Ước chừng công việc khoảng 2 phút
 
 Bài tập này sẽ giúp cho bạn hoàn tất nhiều công việc _nhỏ_ trong vòng 2 phút.
-Không phải mọi việc đều được vinh dự để vào trong danh sách làm việc của bạn.
-Việc nào bạn có thể thực hiện trong vòng 2 phút, nên làm liền đừng bỏ vào lịch làm việc.
+Việc nào bạn có thể thực hiện trong vòng 2 phút, nên làm liền đừng bỏ vào danh sách làm việc.
+Tôi thường xem hộp nháp (tôi sẽ giải thích trong Bài 4) có công việc nào có thể làm dưới 2 phút thì làm liền, không để vào danh sách công việc.
 
-Vài công việc có thể làm dưới 2 phút
+Vài công việc có thể làm dưới 2 phút:
 
 * Trả lời 10+ tin nhắn và email
 * Dọn ngăn nắp bàn mình
@@ -157,7 +158,7 @@ Vài công việc có thể làm dưới 2 phút
 * Đọc Kinh Thánh
 * Học Anh văn
 
-#### <img src="/icons/flying-bottle.svg" width="50"> Lập danh sách những công việc nhỏ có thể thực hiện trong 2 phút. Bạn bỏ ra 10 phút để thực hiện xong 5 việc đó.
+#### <img src="/icons/flying-bottle.svg" width="50"> Lập danh sách những công việc nhỏ có thể thực hiện trong 2' rồi bỏ ra 10'  để thực hiện.
 
 [Focus Keeper Free]: https://itunes.apple.com/us/app/pomodoro-keeper-free-timer/id867374917?mt=8
 [Pomodoro Timer Lite]: https://play.google.com/store/apps/details?id=com.tatkovlab.pomodorolite
