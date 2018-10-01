@@ -160,6 +160,37 @@ Vài công việc có thể làm dưới 2 phút:
 
 #### <img src="/icons/flying-bottle.svg" width="50"> Lập danh sách những công việc nhỏ có thể thực hiện trong 2' rồi bỏ ra 10'  để thực hiện.
 
+## 3.2.5 Ngừng lại trước khi xong việc
+
+Đừng làm quá thời gian đã cố định.
+Ngược lại với suy nghĩ thông thường là khi mình đang có đà cứ chạy cho hết xăng.
+Khi xe hết xăng thì phải đẩy, và tốn thời gian đi kiếm cây xăng.
+Ý tưởng là xăng và cơ thể là xe; đừng dùng hết xăng vì lúc nào bạn cũng cần ý tưởng để làm việc.
+Mỗi công việc chỉ là phần nhỏ trong công trình lớn của cuộc đời nên dùng thời gian làm mốc để tạm dưng ý tưởng.
+
+Thời gian không cần năng lượng nhưng khả năng làm việc cần; vì vậy bạn nên dừng lại để hồi năng lượng cho việc kế tiếp.
+Khi bạn đóng khung thời lượng trong 25 phút để làm, bạn chi năng lượng ra để thực hiện công việc theo khả năng tập trung.
+5 phút nghỉ là khi bạn lấy lại năng lượng để làm tiếp công việc, đừng lấy đi năng lượng mà tâm trí cần để suy nghĩ.
+
+Nếu ý tưởng bạn đang có quan trọng thì nó sẽ còn đó khi bạn quay lại sau 5 phút.
+Tập kỷ luật cho chính xác thời lượng.
+
+---
+
+## Thực hiện bài tập `#3.2`
+
+<img src="../../icons/flying-bottle.svg" width="100">
+
+| Mục | Thực hiện / trách nhiệm |
+| --- | --- |
+| Đề tài | Chúa Jesus |
+| Gốc | Dùng 2h10' không dùng KT, hoặc mạng chỉ dùng trí óc viết xuống hết mọi chi tiết bạn biết về Chúa Jesus |
+| Nhánh | Dùng 2h10' dùng KT, mạng nghiên cứu về nguồn gốc và nhân tánh của CJ |
+| Nhánh | Dùng 1 Pomodoro (như trên) nghiên cứu về chức vụ và công tác Chúa Jesus |
+| Nhánh | Dùng 1 Pomodoro nghiên cứu về thần tánh của CJ |
+| Nhánh | Dùng 1 Pomodoro nghiên cứu về sự dạy dỗ chính về CJ |
+| <img src="../../icons/icon-time.svg" width="40"/> | Bạn có `7` ngày để thực hiện và hoàn tất |
+
 [Focus Keeper Free]: https://itunes.apple.com/us/app/pomodoro-keeper-free-timer/id867374917?mt=8
 [Pomodoro Timer Lite]: https://play.google.com/store/apps/details?id=com.tatkovlab.pomodorolite
 [Pomidorus JS]: https://pomidorus.js.org/
