@@ -74,7 +74,9 @@ Ngay cả khi Pha-lô ở trong tù, ông cũng không ngừng làm việc.
 
 * 3.2.4 [Tập chạy theo giây để không bị trễ][3.2.4]
 
-* 3.3.5 [Ngừng lại trước khi xong việc]
+* 3.2.5 [Ngừng lại trước khi xong việc][3.2.5]
+
+### <img src="../../icons/flying-bottle.svg" width="20"> [Bài tập 3.2][3.2 Ex]
 
 ---
 
@@ -102,3 +104,5 @@ Ngay cả khi Pha-lô ở trong tù, ông cũng không ngừng làm việc.
 [3.2.2]: section-2.md#322-gi%E1%BA%A3m-%C4%91%E1%BB%99-ph%E1%BB%A9c-t%E1%BA%A1p
 [3.2.3]: section-2.md#323-%C4%90%C3%B3ng-khu%C3%B4n-th%E1%BB%9Di-gian-l%E1%BA%A1i
 [3.2.4]: section-2.md#324-t%E1%BA%ADp-ch%E1%BA%A1y-theo-gi%C3%A2y-%C4%91%E1%BB%83-kh%C3%B4ng-b%E1%BB%8B-tr%E1%BB%85
+[3.2.5]: section-2.md#325-ng%E1%BB%ABng-l%E1%BA%A1i-tr%C6%B0%E1%BB%9Bc-khi-xong-vi%E1%BB%87c
+[3.2 Ex]: section-2.md#th%E1%BB%B1c-hi%E1%BB%87n-b%C3%A0i-t%E1%BA%ADp-32
