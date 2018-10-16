@@ -21,9 +21,9 @@ Bạn suy nghĩ về một việc, có kế hoạch thực hiện rồi làm.
 
 ## 4.1 [Hộp nháp](section-1.md)
 
-4.1.1 [Tạo hộp nháp][4.1.1]
+* 4.1.1 [Tạo hộp nháp][4.1.1]
 
-4.1.2 [`HN` đựng mọi thứ][4.1.2]
+* 4.1.2 [`HN` đựng mọi thứ][4.1.2]
 
 ### <img src="../../icons/flying-bottle.svg" width="20"> [Bài tập 4.1][4.1 Ex]
 
