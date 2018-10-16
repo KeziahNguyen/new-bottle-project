@@ -21,6 +21,10 @@ Bạn suy nghĩ về một việc, có kế hoạch thực hiện rồi làm.
 
 ## 4.1 [Hộp nháp](section-1.md)
 
+4.1.1 [Tạo hộp nháp][4.1.1]
+
+4.1.2 [`HN` đựng mọi thứ][4.1.2]
+
 ### <img src="../../icons/flying-bottle.svg" width="20"> [Bài tập 4.1][4.1 Ex]
 
 ## 4.2 Soạn óc
@@ -36,4 +40,6 @@ Bạn suy nghĩ về một việc, có kế hoạch thực hiện rồi làm.
 [Gia-cơ 1:15]: https://twosparro.ws/bible/cadman.jas.1.15
 [Phi-líp 2:5]: https://twosparro.ws/bible/cadman.phi.2.5
 
+[4.1.1]: section-1.md#411-t%E1%BA%A1o-hn
+[4.1.2]: section-1.md#412-h%E1%BB%99p-nh%C3%A1p-%C4%91%E1%BB%B1ng-m%E1%BB%8Di-th%E1%BB%A9
 [4.1 Ex]: section-1.md#th%E1%BB%B1c-hi%E1%BB%87n-b%C3%A0i-t%E1%BA%ADp-41
