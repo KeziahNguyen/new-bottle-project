@@ -58,6 +58,8 @@ Bạn không nên dùng trí óc để nhớ những việc linh tinh rồi sẽ
 Tập cho mình thói quen ghi xuống những gì bạn đang suy nghĩ để không quên mặc dù nó có thể không quan trọng (vì bạn có thể xóa đi sau này).
 Sau khi bạn đã quen [bắt chụp mọi tư tưởng][2 Cô-rinh-tô 10:5] vào trong `HN` bạn sẽ hiểu rõ hơn cuộc sống hằng ngày của mình khi bạn tham khảo những tư tưởng và suy nghĩ.
 
+----
+
 ## Thực hiện bài tập `#4.1`
 
 <img src="../../icons/flying-bottle.svg" width="100">
