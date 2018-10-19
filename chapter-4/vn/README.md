@@ -31,11 +31,13 @@ Bạn suy nghĩ về một việc, có kế hoạch thực hiện rồi làm.
 
 * 4.2.1 [Làm rõ công việc][4.2.1]
 
-* 4.2.2 [Tạo sơ đồ thực hiện][4.2.2]
+* 4.2.2 [Phân biệt các thể loại việc làm][4.2.2]
 
-## 4.3 Vẽ kế hoạch
+* 4.2.3 [Sơ đồ quyết định][4.2.3]
 
-## 4.4 Thực hiện
+### <img src="../../icons/flying-bottle.svg" width="20"> [Bài tập 4.2][4.2 Ex]
+
+## 4.3 Thực hiện
 
 ---
 
@@ -49,4 +51,6 @@ Bạn suy nghĩ về một việc, có kế hoạch thực hiện rồi làm.
 [4.1 Ex]: section-1.md#th%E1%BB%B1c-hi%E1%BB%87n-b%C3%A0i-t%E1%BA%ADp-41
 
 [4.2.1]: section-2.md#421-l%C3%A0m-r%C3%B5-c%C3%B4ng-vi%E1%BB%87c
-[4.2.2]: section-2.md#422-t%E1%BA%A1o-s%C6%A1-%C4%91%E1%BB%93-th%E1%BB%B1c-hi%E1%BB%87n
+[4.2.2]: section-2.md#422-ph%C3%A2n-bi%E1%BB%87t-c%C3%A1c-th%E1%BB%83-lo%E1%BA%A1i-vi%E1%BB%87c-l%C3%A0m
+[4.2.3]: section-2.md#423-s%C6%A1-%C4%91%E1%BB%93-quy%E1%BA%BFt-%C4%91%E1%BB%8Bnh
+[4.2 Ex]: section-2.md#th%E1%BB%B1c-hi%E1%BB%87n-b%C3%A0i-t%E1%BA%ADp-42
