@@ -22,4 +22,15 @@ Sau khi bạn đã làm rõ công việc dồn nó từ `HN` xuống dưới m�
 
 <img src="/chapter-4/vn/c4-google-keep-in-tray.gif" />
 
+Hãy nhớ, đừng để cho `HN` có nhiều thông tin quá.
+Bạn nên làm rõ công việc càng sớm càng tốt.
+
 ## 4.2.2 Tạo sơ đồ thực hiện
+
+Có những công việc không rơi vào dạng dạng **đơn lẻ** (xem phần trên).
+Trong `HN` bạn có thông tin: `bài 4.1` đây là một **dự án** vì cần hơn một việc đơn lẻ để thực hiện.
+Bạn tạo một dự án thực hiện như sau:
+
+1. Đọc và hiểu bài 4.1 (dùng 1 Pomodoro)
+2. Tạo cột `HN` trong Google Keep
+3. Trong ngày nhớ nghi xuống 5 việc trong cột `HN`
