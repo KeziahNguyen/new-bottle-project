@@ -35,7 +35,7 @@ Mỗi ngày tập thực hiện `3VHN` cho hoàn hảo thì bạn kết nối m�
 | --- | --- |
 | Đồng hồ | Cài 3 phút cho đồng hồ báo tin |
 | Im lặng | Cố gắng không cử động ngồi cho đến khi chuông reo |
-| Chú ý | Đừng để ý đễn việc gì cố định, cứ ngồi im |
+| Chú ý | Đừng để ý đến việc gì cố định, cứ ngồi im |
 | Xét lại | Sau khi đã kết thúc 3 phút ghi xuống những điều mình suy nghĩ |
 | 3 điều | Đưa 3 điều vào trong mục `3VHN` |
 | Làm hết | Trong tuần, bạn phải hoàn tất ít nhất 3 ngày hết những việc trong `3VHN` |
