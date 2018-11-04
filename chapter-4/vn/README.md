@@ -37,7 +37,15 @@ Bạn suy nghĩ về một việc, có kế hoạch thực hiện rồi làm.
 
 ### <img src="../../icons/flying-bottle.svg" width="20"> [Bài tập 4.2][4.2 Ex]
 
-## 4.3 Thực hiện
+## 4.3 [Thực hiện](section-3.md)
+
+* 4.3.1 [Công thức 80/20][4.3.1]
+
+* 4.3.2 [Bớt thời gian, thêm tập trung][4.3.2]
+
+* 4.3.3 [Ôn lại và suy nghĩ][4.3.3]
+
+### <img src="../../icons/flying-bottle.svg" width="20"> [Bài tập 4.3][4.3 Ex]
 
 ---
 
@@ -54,3 +62,8 @@ Bạn suy nghĩ về một việc, có kế hoạch thực hiện rồi làm.
 [4.2.2]: section-2.md#422-ph%C3%A2n-bi%E1%BB%87t-c%C3%A1c-th%E1%BB%83-lo%E1%BA%A1i-vi%E1%BB%87c-l%C3%A0m
 [4.2.3]: section-2.md#423-s%C6%A1-%C4%91%E1%BB%93-quy%E1%BA%BFt-%C4%91%E1%BB%8Bnh
 [4.2 Ex]: section-2.md#th%E1%BB%B1c-hi%E1%BB%87n-b%C3%A0i-t%E1%BA%ADp-42
+
+[4.3.1]: section-3.md#431-c%C3%B4ng-th%E1%BB%A9c-8020
+[4.3.2]: section-3.md#432-b%E1%BB%9Bt-th%E1%BB%9Di-gian-th%C3%AAm-t%E1%BA%ADp-trung
+[4.3.3]: section-3.md#433-%C3%B4n-l%E1%BA%A1i-v%C3%A0-suy-ngh%C4%A9
+[4.3 Ex]: section-3.md#th%E1%BB%B1c-hi%E1%BB%87n-b%C3%A0i-t%E1%BA%ADp-43
