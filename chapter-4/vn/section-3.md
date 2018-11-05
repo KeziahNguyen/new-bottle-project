@@ -30,14 +30,14 @@ Ví dụ trong hộp nháp bạn có nhưng mục như sau:
 | ~[ ] Học nấu bánh flan~ |
 | ~[ ] Nghiên cứu cách tĩnh nguyện~ |
 
-Để thực hiện công thức **80/20** bạn sẽ chọn 1 trong 5 công việc đó để lại việc quan trọng nhất.
+Để thực hiện công thức **80/20** bạn sẽ chọn 1 trong 5 công việc; bỏ đi 4 việc và để lại việc quan trọng nhất.
 Danh sách của bạn bây giờ sẽ như sau:
 
 | Hộp nháp | Quyết định | Danh sách |
 | :------- | :--------- | :-------- |
 | [ ] Mua áo múa | Ủy quyền | Chờ đợi |
-| [ ] Gọi hỏi thăm cô Hoa bệnh ung thư | Thực hiện | Công việc cần làm |
-| [ ] Mở tài khoản mới trong FB | Xóa | Thùng rác |
+| [ ] *Gọi hỏi thăm cô Hoa bệnh ung thư* | **Thực hiện** | *Công việc cần làm* |
+| [ ] ~Mở tài khoản mới trong FB~ | Xóa | Thùng rác |
 | [ ] Học nấu bánh flan | Hoãn lại | Ao ước |
 | [ ] Nghiên cứu cách tĩnh nguyện | Phân loại | Dự án |
 
