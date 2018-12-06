@@ -42,7 +42,7 @@ _`DABM` đang trong dạng thử nghiệm. Sẽ có nhiều thay đổi và cầ
 
 #### 3.2 Vượt qua sự trì hoãn
 
-### Bài 4: Soạn óc
+### Bài 4: [Soạn óc](chapter-4/vn/README.md)
 
 #### Khay nháp
 
