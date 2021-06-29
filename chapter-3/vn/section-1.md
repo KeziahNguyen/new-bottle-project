@@ -6,7 +6,7 @@
 
 Để biết chính xác mình làm gì trong ngày, bạn phải có một hệ thống theo dõi việc làm.
 Bạn cần biết mình làm gì mới có thể thay đổi trở nên `BM`.
-Phao-lô dạy chúng ta phải [lợi dụng thì giờ][Ê-phê-sô 5:16], vì nếu không điều khiển được mình theo giòng thời gian thì sẽ bị nó cuốn trôi; như con thuyền trên nước, nếu không biết cách trèo thì không thể đến nơi mình dự định.
+Phao-lô dạy chúng ta phải [lợi dụng thì giờ][Ê-phê-sô 5:16], vì nếu không điều khiển được mình theo dòng thời gian thì sẽ bị nó cuốn trôi; như con thuyền trên nước, nếu không biết cách trèo thì không thể đến nơi mình dự định.
 Bạn thường nói tôi không có thời gian, nhưng thực tế là bạn kéo dài thời gian của những việc rất tầm thường vì không tập trung để làm cho xong.
 Bạn thuộc câu, làm việc phải [làm hết lòng và sức][Cô-lô-se 3:17], nhưng ngay cả khi đọc Kinh Thánh, điện thoại nhé cái, bạn cũng mất tập trung.
 
